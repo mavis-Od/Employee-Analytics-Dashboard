@@ -1,0 +1,1001 @@
+Employee_ID,Full_Name,Gender,Age,Department,Position,Salary_NGN,Date_Hired,Status,Location,Years_of_Service
+EMP0001,Mavis Okafor,Male,39,Finance,Accountant,686123,1/5/2023,Active,Abuja,3
+EMP0002,Grace Ibrahim,Male,56,IT,Software Engineer,821029,1/8/2020,Active,Lagos,6
+EMP0003,Daniel Onyeka,Female,28,Finance,Auditor,723167,11/4/2020,Active,Kano,5
+EMP0004,James Balogun,Male,26,Operations,Logistics Coordinator,312953,5/25/2025,Active,Ibadan,0
+EMP0005,Michael Nwosu,Female,26,Sales,Account Manager,365669,6/9/2016,Active,Lagos,9
+EMP0006,Ruth Balogun,Male,42,Sales,Account Manager,656393,12/14/2019,Resigned,Abuja,6
+EMP0007,Tunde Ibrahim,Female,49,Sales,Business Development Rep,547138,10/8/2016,Active,Port Harcourt,9
+EMP0008,Daniel Afolabi,Female,46,Finance,Accountant,590049,9/3/2016,Active,Port Harcourt,9
+EMP0009,Tunde Ogunleye,Female,54,IT,Data Analyst,461579,8/13/2023,Active,Kano,2
+EMP0010,Aisha Ibrahim,Female,23,Operations,Procurement Officer,301291,10/25/2024,Active,Abuja,1
+EMP0011,James Ibe,Female,57,HR,HR Analyst,532746,12/15/2023,Terminated,Port Harcourt,2
+EMP0012,John Ojo,Male,36,Finance,Accountant,608443,11/6/2024,Active,Lagos,1
+EMP0013,Ibrahim Ojo,Male,54,Operations,Operations Analyst,559391,12/8/2022,Active,Lagos,3
+EMP0014,David Ojo,Female,49,Customer Support,Support Specialist,391089,9/3/2019,Active,Abuja,6
+EMP0015,Mavis Okafor,Male,49,Admin,Admin Officer,370955,12/8/2023,Terminated,Abuja,2
+EMP0016,Emeka Nwosu,Female,52,Customer Support,Customer Success Rep,418555,10/6/2022,Active,Abuja,3
+EMP0017,Esther Balogun,Female,35,Sales,Sales Executive,309971,7/6/2025,Resigned,Kano,0
+EMP0018,Mary Abdullahi,Male,26,Finance,Auditor,511694,3/27/2017,Active,Ibadan,9
+EMP0019,Mary Okafor,Male,42,Marketing,Marketing Analyst,489717,12/15/2022,Active,Kano,3
+EMP0020,Esther Adeyemi,Female,30,Sales,Business Development Rep,362704,3/25/2021,Terminated,Kano,5
+EMP0021,Fatima Ogunleye,Male,30,Marketing,Content Specialist,392788,3/1/2022,Active,Ibadan,4
+EMP0022,Emeka Adeyemi,Male,49,IT,Data Analyst,353717,4/7/2022,Active,Lagos,4
+EMP0023,Michael Nwosu,Male,45,HR,HR Officer,316818,7/22/2016,Active,Ibadan,9
+EMP0024,David Afolabi,Male,37,Customer Support,Support Specialist,310111,1/29/2024,Active,Port Harcourt,2
+EMP0025,Fatima Musa,Male,51,Sales,Business Development Rep,626047,11/24/2020,On Leave,Kano,5
+EMP0026,Sarah Afolabi,Female,23,Customer Support,Support Specialist,407836,12/16/2024,Active,Port Harcourt,1
+EMP0027,Sarah Abdullahi,Female,24,Sales,Account Manager,640110,4/29/2020,Active,Remote,6
+EMP0028,Blessing Nwosu,Female,54,Finance,Auditor,471013,5/23/2021,Active,Abuja,4
+EMP0029,Grace Ogunleye,Female,57,Marketing,Content Specialist,554079,11/24/2025,Active,Remote,0
+EMP0030,Michael Ibe,Male,40,HR,HR Analyst,373138,5/26/2017,Active,Lagos,8
+EMP0031,David Ibrahim,Female,58,Admin,Executive Assistant,396860,5/8/2022,On Leave,Abuja,3
+EMP0032,Peter Onyeka,Female,25,HR,HR Analyst,319908,12/24/2017,Resigned,Kano,8
+EMP0033,Ruth Okafor,Female,32,Customer Support,Customer Success Rep,434068,9/12/2018,Active,Abuja,7
+EMP0034,Sarah Ogunleye,Female,42,Marketing,Content Specialist,613829,3/20/2018,Active,Port Harcourt,8
+EMP0035,Ibrahim Ogunleye,Male,48,IT,BI Analyst,370480,7/5/2019,Active,Port Harcourt,6
+EMP0036,Blessing Abdullahi,Female,49,Sales,Business Development Rep,659679,4/16/2019,Active,Remote,7
+EMP0037,Blessing Eze,Male,49,IT,IT Support,540556,9/5/2023,Active,Ibadan,2
+EMP0038,Mavis Abdullahi,Female,23,Finance,Accountant,417556,4/4/2018,Active,Abuja,8
+EMP0039,David Abdullahi,Female,29,HR,HR Officer,384345,1/9/2017,Resigned,Ibadan,9
+EMP0040,James Okafor,Female,34,Customer Support,Customer Success Rep,201532,6/29/2024,Active,Lagos,1
+EMP0041,Emeka Ibrahim,Female,28,Customer Support,Customer Success Rep,321600,10/27/2019,On Leave,Port Harcourt,6
+EMP0042,Sarah Balogun,Female,42,Customer Support,Customer Success Rep,378699,3/16/2023,Active,Abuja,3
+EMP0043,Emeka Ibrahim,Female,43,Operations,Operations Analyst,304885,6/28/2021,Active,Remote,4
+EMP0044,James Afolabi,Female,50,Admin,Executive Assistant,324062,3/12/2026,Active,Ibadan,0
+EMP0045,Samuel Eze,Female,41,Admin,Executive Assistant,250211,1/1/2022,Active,Lagos,4
+EMP0046,Chioma Nwosu,Female,36,Sales,Account Manager,346365,1/28/2021,Active,Lagos,5
+EMP0047,Mary Nwosu,Female,52,IT,Data Analyst,707256,9/17/2018,Active,Abuja,7
+EMP0048,Daniel Onyeka,Female,27,HR,HR Analyst,562542,2/28/2023,Resigned,Port Harcourt,3
+EMP0049,Mavis Afolabi,Male,28,Marketing,Content Specialist,332343,6/13/2022,Active,Remote,3
+EMP0050,Grace Afolabi,Female,24,Admin,Admin Officer,363855,12/3/2022,Active,Kano,3
+EMP0051,Daniel Bello,Male,39,Sales,Account Manager,591974,3/23/2024,Active,Ibadan,2
+EMP0052,Mary Abdullahi,Female,27,Admin,Admin Officer,260011,4/10/2017,Resigned,Remote,9
+EMP0053,Ibrahim Musa,Male,33,Marketing,Content Specialist,556881,8/8/2018,Active,Remote,7
+EMP0054,Fatima Musa,Male,43,Finance,Accountant,451109,5/10/2019,Active,Port Harcourt,6
+EMP0055,Fatima Ogunleye,Female,48,IT,BI Analyst,893623,1/22/2026,Active,Ibadan,0
+EMP0056,David Ibe,Female,29,Admin,Admin Officer,224434,6/10/2025,Active,Remote,0
+EMP0057,Peter Ogunleye,Female,40,HR,HR Analyst,502968,5/4/2017,Active,Abuja,8
+EMP0058,Samuel Musa,Female,48,Finance,Financial Analyst,730204,8/13/2020,Active,Kano,5
+EMP0059,Blessing Afolabi,Female,42,Customer Support,Support Specialist,346816,5/7/2022,Active,Port Harcourt,3
+EMP0060,Chioma Okafor,Male,54,IT,IT Support,455239,11/12/2016,Active,Ibadan,9
+EMP0061,Daniel Ojo,Female,27,Operations,Procurement Officer,515825,5/19/2020,Active,Lagos,5
+EMP0062,Chioma Ojo,Male,28,Customer Support,Customer Success Rep,333809,2/4/2019,Active,Kano,7
+EMP0063,Ruth Eze,Male,33,HR,HR Analyst,376264,6/20/2024,Active,Lagos,1
+EMP0064,Daniel Ojo,Female,56,Admin,Executive Assistant,380961,3/22/2024,Active,Port Harcourt,2
+EMP0065,John Adewale,Male,46,Finance,Auditor,666623,10/29/2016,Active,Remote,9
+EMP0066,John Eze,Female,36,Admin,Executive Assistant,364691,11/1/2016,Active,Lagos,9
+EMP0067,Fatima Adewale,Male,27,Operations,Logistics Coordinator,451814,11/13/2021,On Leave,Ibadan,4
+EMP0068,David Ibe,Male,51,Operations,Logistics Coordinator,307344,2/15/2025,Active,Remote,1
+EMP0069,Ruth Adewale,Female,45,Marketing,SEO Specialist,544339,5/18/2024,Active,Ibadan,1
+EMP0070,Emeka Afolabi,Male,30,Customer Support,Support Specialist,251127,4/9/2026,Active,Port Harcourt,0
+EMP0071,James Adeyemi,Female,48,Finance,Financial Analyst,413911,4/13/2022,Active,Ibadan,4
+EMP0072,Mary Ojo,Male,51,Sales,Sales Executive,593076,5/24/2024,Terminated,Kano,1
+EMP0073,Mavis Balogun,Male,36,Sales,Sales Executive,348153,2/13/2021,Active,Ibadan,5
+EMP0074,Esther Abdullahi,Female,23,Sales,Sales Executive,555820,12/15/2023,Active,Port Harcourt,2
+EMP0075,Ruth Okafor,Male,55,Sales,Sales Executive,490563,9/7/2021,Active,Ibadan,4
+EMP0076,David Onyeka,Male,30,HR,HR Analyst,563205,6/14/2021,Active,Remote,4
+EMP0077,Fatima Musa,Female,50,Sales,Sales Executive,489049,9/30/2022,Active,Remote,3
+EMP0078,James Onyeka,Male,27,Admin,Executive Assistant,375639,3/12/2025,Active,Remote,1
+EMP0079,James Okafor,Female,41,IT,Software Engineer,882060,3/7/2021,On Leave,Kano,5
+EMP0080,Daniel Adewale,Female,57,Sales,Account Manager,643578,6/20/2016,Active,Ibadan,9
+EMP0081,Blessing Afolabi,Male,31,IT,IT Support,770252,5/29/2016,Active,Ibadan,9
+EMP0082,Ruth Nwosu,Female,41,HR,Recruiter,277582,7/13/2020,Active,Port Harcourt,5
+EMP0083,John Ojo,Female,39,Admin,Executive Assistant,338132,8/10/2022,Active,Kano,3
+EMP0084,Tunde Balogun,Male,35,IT,IT Support,493901,1/11/2022,Active,Kano,4
+EMP0085,Ibrahim Eze,Female,26,Sales,Sales Executive,320822,4/8/2020,Active,Port Harcourt,6
+EMP0086,Daniel Bello,Female,32,IT,Software Engineer,729430,9/7/2016,Active,Abuja,9
+EMP0087,Fatima Ojo,Male,26,Operations,Operations Analyst,444077,6/10/2017,Active,Kano,8
+EMP0088,Ruth Okafor,Male,33,HR,Recruiter,545559,8/22/2015,Active,Port Harcourt,10
+EMP0089,Aisha Abdullahi,Female,25,Marketing,SEO Specialist,269717,8/13/2020,Active,Kano,5
+EMP0090,Sarah Bello,Female,57,Customer Support,Support Specialist,212439,9/10/2025,Active,Kano,0
+EMP0091,Sarah Nwosu,Male,37,HR,HR Analyst,569713,9/18/2018,Active,Lagos,7
+EMP0092,Chioma Adewale,Male,43,Operations,Logistics Coordinator,575988,7/17/2024,Active,Ibadan,1
+EMP0093,Esther Musa,Male,27,Customer Support,Support Specialist,228996,7/17/2021,Active,Ibadan,4
+EMP0094,Esther Adeyemi,Male,35,Marketing,SEO Specialist,290456,8/24/2020,Active,Ibadan,5
+EMP0095,Ruth Ojo,Female,31,HR,HR Analyst,479466,1/27/2024,Active,Abuja,2
+EMP0096,Peter Balogun,Female,34,Marketing,Content Specialist,450211,5/17/2020,On Leave,Lagos,5
+EMP0097,Chioma Onyeka,Female,57,Admin,Executive Assistant,317786,4/29/2024,Resigned,Lagos,1
+EMP0098,Sarah Adewale,Female,44,Sales,Sales Executive,476063,9/28/2025,Active,Remote,0
+EMP0099,Aisha Adeyemi,Male,30,Operations,Logistics Coordinator,505948,12/3/2025,Active,Abuja,0
+EMP0100,Samuel Abdullahi,Female,29,HR,HR Analyst,275034,12/29/2021,Active,Lagos,4
+EMP0101,Aisha Ogunleye,Male,40,Sales,Business Development Rep,498401,4/29/2020,Terminated,Kano,6
+EMP0102,David Ibrahim,Female,52,IT,Software Engineer,755674,6/7/2025,Active,Abuja,0
+EMP0103,Ruth Adeyemi,Female,56,IT,Software Engineer,533594,6/4/2020,Active,Abuja,5
+EMP0104,John Onyeka,Male,24,IT,Software Engineer,890418,11/22/2020,Active,Ibadan,5
+EMP0105,Aisha Bello,Female,49,Finance,Financial Analyst,477752,9/17/2019,Active,Lagos,6
+EMP0106,Tunde Bello,Male,56,Customer Support,Customer Success Rep,413788,11/16/2021,Active,Ibadan,4
+EMP0107,Tunde Adeyemi,Male,44,Admin,Admin Officer,295239,9/20/2016,Active,Kano,9
+EMP0108,James Musa,Male,30,Admin,Executive Assistant,378012,12/29/2024,Active,Lagos,1
+EMP0109,Emeka Okafor,Female,47,HR,Recruiter,309479,6/1/2020,Active,Ibadan,5
+EMP0110,Sarah Nwosu,Male,40,Admin,Executive Assistant,378763,1/18/2019,Resigned,Remote,7
+EMP0111,Samuel Adeyemi,Female,41,Finance,Financial Analyst,716125,4/30/2023,Active,Kano,2
+EMP0112,Aisha Balogun,Female,57,Operations,Logistics Coordinator,510958,6/20/2023,On Leave,Remote,2
+EMP0113,John Onyeka,Female,51,Finance,Accountant,367284,8/10/2015,Active,Kano,10
+EMP0114,Fatima Balogun,Female,32,HR,HR Analyst,522051,11/15/2023,Resigned,Ibadan,2
+EMP0115,Fatima Nwosu,Male,31,Finance,Accountant,741728,5/27/2023,Active,Kano,2
+EMP0116,John Balogun,Male,53,Customer Support,Customer Success Rep,392909,7/26/2015,Active,Port Harcourt,10
+EMP0117,Emeka Okafor,Female,35,Admin,Executive Assistant,399403,6/23/2020,Active,Abuja,5
+EMP0118,Tunde Onyeka,Male,39,Admin,Executive Assistant,265082,12/25/2018,Resigned,Kano,7
+EMP0119,Michael Ojo,Male,32,Operations,Procurement Officer,307211,8/10/2018,Active,Ibadan,7
+EMP0120,Blessing Musa,Male,40,IT,Data Analyst,843446,6/29/2018,Active,Port Harcourt,7
+EMP0121,Blessing Musa,Male,45,IT,Software Engineer,427103,12/4/2017,Terminated,Kano,8
+EMP0122,Chioma Abdullahi,Male,34,Operations,Procurement Officer,331846,8/13/2016,Active,Abuja,9
+EMP0123,Samuel Onyeka,Female,32,Operations,Operations Analyst,539099,6/19/2019,Active,Ibadan,6
+EMP0124,Samuel Balogun,Male,48,Operations,Procurement Officer,563287,11/24/2016,Active,Remote,9
+EMP0125,Ibrahim Ogunleye,Male,37,Customer Support,Customer Success Rep,259393,7/9/2025,Active,Remote,0
+EMP0126,Sarah Ogunleye,Male,55,IT,Software Engineer,690839,7/16/2022,Resigned,Remote,3
+EMP0127,Emeka Adewale,Female,34,Marketing,SEO Specialist,401521,12/8/2022,Active,Ibadan,3
+EMP0128,Aisha Musa,Male,58,Marketing,Content Specialist,326795,7/27/2015,Resigned,Remote,10
+EMP0129,Michael Ojo,Female,35,Marketing,Marketing Analyst,392407,7/28/2022,Active,Remote,3
+EMP0130,Tunde Afolabi,Male,25,Sales,Business Development Rep,332714,9/29/2024,Terminated,Port Harcourt,1
+EMP0131,Tunde Adewale,Male,40,Admin,Admin Officer,245892,12/4/2020,Active,Port Harcourt,5
+EMP0132,Samuel Adewale,Male,40,Admin,Admin Officer,368116,4/24/2026,Active,Kano,0
+EMP0133,Daniel Abdullahi,Female,34,Admin,Admin Officer,393099,11/10/2024,Active,Abuja,1
+EMP0134,Blessing Ojo,Female,54,Customer Support,Customer Success Rep,349660,3/16/2021,Active,Ibadan,5
+EMP0135,Esther Adewale,Female,58,Operations,Procurement Officer,321983,12/16/2025,Active,Ibadan,0
+EMP0136,Samuel Ibrahim,Female,45,Finance,Auditor,370028,1/7/2017,Active,Remote,9
+EMP0137,Chioma Balogun,Male,27,Sales,Account Manager,338829,9/14/2017,Active,Kano,8
+EMP0138,Mary Adeyemi,Male,35,Admin,Executive Assistant,334544,8/23/2016,Active,Remote,9
+EMP0139,Aisha Adewale,Male,47,Marketing,Content Specialist,472139,4/28/2022,Terminated,Lagos,4
+EMP0140,Emeka Balogun,Female,33,Marketing,SEO Specialist,447916,6/5/2023,Resigned,Ibadan,2
+EMP0141,Emeka Afolabi,Male,56,Finance,Auditor,681607,8/3/2019,Active,Port Harcourt,6
+EMP0142,David Abdullahi,Male,51,Sales,Sales Executive,296891,2/9/2021,Active,Port Harcourt,5
+EMP0143,Mary Musa,Male,24,IT,Software Engineer,595722,9/18/2019,Active,Abuja,6
+EMP0144,James Nwosu,Male,55,Marketing,SEO Specialist,560203,9/30/2022,Active,Port Harcourt,3
+EMP0145,Ruth Adewale,Female,48,Operations,Operations Analyst,378145,11/27/2023,Active,Kano,2
+EMP0146,Aisha Ogunleye,Female,57,Customer Support,Support Specialist,221455,2/21/2018,On Leave,Lagos,8
+EMP0147,David Bello,Female,24,Marketing,Content Specialist,408957,1/22/2025,Resigned,Abuja,1
+EMP0148,Samuel Ibe,Female,37,Sales,Sales Executive,559786,11/17/2017,Active,Remote,8
+EMP0149,Mary Abdullahi,Female,35,Admin,Executive Assistant,268360,11/20/2020,Active,Ibadan,5
+EMP0150,Samuel Ibe,Male,43,HR,HR Officer,538695,10/17/2022,Resigned,Remote,3
+EMP0151,John Ibrahim,Male,30,Operations,Operations Analyst,534697,8/23/2017,Resigned,Port Harcourt,8
+EMP0152,Mavis Ogunleye,Male,26,HR,HR Analyst,489080,4/24/2024,Active,Port Harcourt,2
+EMP0153,Esther Balogun,Male,55,IT,BI Analyst,650614,7/29/2021,Resigned,Abuja,4
+EMP0154,Aisha Nwosu,Female,39,Marketing,SEO Specialist,377510,3/20/2020,On Leave,Lagos,6
+EMP0155,Sarah Abdullahi,Female,46,Finance,Accountant,329420,7/22/2019,On Leave,Kano,6
+EMP0156,Sarah Adeyemi,Male,35,IT,BI Analyst,634263,8/30/2016,Resigned,Kano,9
+EMP0157,Aisha Ogunleye,Female,26,HR,HR Analyst,454030,2/5/2022,Active,Ibadan,4
+EMP0158,Ruth Ibe,Male,49,IT,BI Analyst,707137,3/22/2023,Active,Ibadan,3
+EMP0159,Chioma Bello,Female,33,Customer Support,Customer Success Rep,223011,7/6/2015,Active,Ibadan,10
+EMP0160,Emeka Ogunleye,Male,27,Operations,Logistics Coordinator,305768,11/22/2025,Active,Lagos,0
+EMP0161,Emeka Adewale,Male,44,IT,BI Analyst,690189,3/14/2018,Active,Kano,8
+EMP0162,Samuel Ibrahim,Female,32,HR,HR Officer,508538,12/13/2023,Active,Ibadan,2
+EMP0163,Blessing Ibrahim,Male,53,Marketing,Content Specialist,409728,6/19/2016,On Leave,Port Harcourt,9
+EMP0164,Samuel Abdullahi,Female,30,Operations,Operations Analyst,427320,11/16/2021,Active,Ibadan,4
+EMP0165,Grace Ibe,Female,47,Customer Support,Customer Success Rep,194111,3/2/2021,Active,Remote,5
+EMP0166,Peter Ibe,Female,53,Finance,Auditor,426888,6/9/2023,Active,Port Harcourt,2
+EMP0167,Mary Nwosu,Male,45,Customer Support,Customer Success Rep,267209,6/30/2017,Active,Ibadan,8
+EMP0168,Ruth Ibrahim,Male,22,Customer Support,Support Specialist,295884,12/17/2024,Active,Ibadan,1
+EMP0169,James Ibe,Female,28,IT,Data Analyst,440025,9/29/2021,Active,Port Harcourt,4
+EMP0170,Tunde Ogunleye,Female,26,Admin,Admin Officer,394114,4/7/2022,Active,Ibadan,4
+EMP0171,Grace Ibe,Female,36,Customer Support,Customer Success Rep,195305,6/12/2019,Active,Port Harcourt,6
+EMP0172,David Eze,Male,35,IT,IT Support,415602,5/4/2021,Active,Kano,4
+EMP0173,Chioma Musa,Female,47,Operations,Operations Analyst,613154,3/3/2017,Active,Abuja,9
+EMP0174,Emeka Bello,Male,33,Marketing,SEO Specialist,562698,5/9/2020,Active,Abuja,5
+EMP0175,Blessing Ogunleye,Female,40,HR,HR Analyst,486454,1/24/2024,Active,Remote,2
+EMP0176,Michael Ogunleye,Female,53,Admin,Executive Assistant,276569,5/2/2019,Active,Abuja,6
+EMP0177,Ibrahim Okafor,Female,57,Admin,Admin Officer,343223,3/4/2018,Active,Ibadan,8
+EMP0178,Ibrahim Balogun,Female,38,IT,BI Analyst,810398,3/16/2021,Active,Abuja,5
+EMP0179,Esther Adewale,Male,58,Sales,Business Development Rep,368278,7/31/2020,Active,Lagos,5
+EMP0180,Blessing Ibe,Female,25,HR,HR Officer,319568,5/29/2021,On Leave,Kano,4
+EMP0181,Mavis Onyeka,Female,46,Marketing,SEO Specialist,395870,3/23/2019,Active,Lagos,7
+EMP0182,Chioma Abdullahi,Female,26,Admin,Executive Assistant,288540,10/9/2017,Active,Ibadan,8
+EMP0183,Chioma Adewale,Male,28,IT,Software Engineer,367072,9/8/2015,Terminated,Abuja,10
+EMP0184,Michael Afolabi,Male,45,Marketing,SEO Specialist,277151,3/18/2022,Active,Lagos,4
+EMP0185,David Onyeka,Male,35,Finance,Financial Analyst,611259,3/22/2019,Active,Remote,7
+EMP0186,Chioma Nwosu,Female,26,HR,HR Analyst,303701,10/15/2022,Active,Abuja,3
+EMP0187,David Balogun,Male,32,Finance,Accountant,629294,11/2/2018,Active,Kano,7
+EMP0188,Daniel Ojo,Female,49,Customer Support,Support Specialist,329380,2/17/2021,Active,Remote,5
+EMP0189,Mavis Musa,Female,25,Customer Support,Customer Success Rep,217230,8/19/2022,Resigned,Abuja,3
+EMP0190,John Adewale,Female,45,Customer Support,Support Specialist,215406,5/16/2017,Active,Port Harcourt,8
+EMP0191,Blessing Abdullahi,Female,49,Marketing,SEO Specialist,291430,3/18/2020,Active,Remote,6
+EMP0192,Tunde Okafor,Female,49,Finance,Accountant,345200,3/31/2023,Active,Remote,3
+EMP0193,Mavis Musa,Male,32,HR,Recruiter,385920,11/4/2018,Resigned,Ibadan,7
+EMP0194,David Adewale,Female,58,Finance,Auditor,538654,3/22/2016,Active,Remote,10
+EMP0195,John Ogunleye,Male,54,Finance,Auditor,428215,4/6/2026,Resigned,Remote,0
+EMP0196,Tunde Ojo,Male,42,Customer Support,Support Specialist,443214,9/28/2022,Resigned,Port Harcourt,3
+EMP0197,Peter Ojo,Female,40,Finance,Financial Analyst,589979,11/13/2021,Active,Ibadan,4
+EMP0198,Mavis Musa,Male,56,Admin,Admin Officer,366708,2/11/2023,On Leave,Remote,3
+EMP0199,Esther Afolabi,Female,28,Customer Support,Customer Success Rep,228772,8/1/2022,Resigned,Port Harcourt,3
+EMP0200,Sarah Adewale,Male,54,Finance,Financial Analyst,339232,6/7/2023,Active,Remote,2
+EMP0201,Ruth Musa,Female,50,Operations,Logistics Coordinator,317133,12/31/2021,Active,Lagos,4
+EMP0202,John Ojo,Male,50,Operations,Logistics Coordinator,619690,9/4/2021,Active,Abuja,4
+EMP0203,Emeka Ojo,Male,44,Finance,Accountant,655039,8/11/2019,Active,Port Harcourt,6
+EMP0204,Aisha Adeyemi,Male,29,Finance,Accountant,368532,3/28/2026,Active,Abuja,0
+EMP0205,Mavis Afolabi,Male,27,Admin,Executive Assistant,389905,2/26/2021,Active,Abuja,5
+EMP0206,Ibrahim Adewale,Male,33,Operations,Procurement Officer,584626,12/7/2021,Active,Port Harcourt,4
+EMP0207,James Ibe,Male,39,IT,IT Support,789599,2/19/2020,Active,Ibadan,6
+EMP0208,Mary Ojo,Female,39,Operations,Operations Analyst,290718,4/15/2024,Active,Lagos,2
+EMP0209,James Adewale,Male,39,Sales,Business Development Rep,466019,4/2/2018,Active,Lagos,8
+EMP0210,Esther Ibe,Male,58,Operations,Operations Analyst,289448,8/20/2022,Active,Ibadan,3
+EMP0211,Aisha Musa,Male,43,Sales,Business Development Rep,587552,11/15/2023,On Leave,Remote,2
+EMP0212,Emeka Bello,Male,43,Customer Support,Customer Success Rep,346347,11/15/2021,Active,Abuja,4
+EMP0213,Peter Ojo,Female,41,HR,HR Analyst,250942,2/23/2022,Active,Kano,4
+EMP0214,Grace Ojo,Female,31,Finance,Auditor,481828,3/21/2021,Active,Lagos,5
+EMP0215,David Onyeka,Female,28,Operations,Logistics Coordinator,518516,4/4/2026,Active,Kano,0
+EMP0216,Tunde Bello,Male,50,Sales,Sales Executive,416906,4/11/2025,Resigned,Kano,1
+EMP0217,Ibrahim Bello,Female,52,Finance,Auditor,618409,9/20/2025,Terminated,Remote,0
+EMP0218,Aisha Eze,Female,41,Marketing,SEO Specialist,507398,3/11/2023,Active,Remote,3
+EMP0219,Fatima Okafor,Male,28,Admin,Executive Assistant,304193,1/13/2026,Active,Abuja,0
+EMP0220,David Okafor,Female,45,Operations,Procurement Officer,378616,9/13/2023,Active,Ibadan,2
+EMP0221,Blessing Adewale,Male,57,Customer Support,Support Specialist,303544,10/12/2025,Active,Kano,0
+EMP0222,Chioma Onyeka,Male,50,HR,HR Analyst,351043,2/3/2024,Active,Ibadan,2
+EMP0223,Esther Ibrahim,Male,27,Operations,Logistics Coordinator,500206,7/20/2019,Active,Lagos,6
+EMP0224,Samuel Abdullahi,Male,31,Customer Support,Customer Success Rep,360286,7/3/2016,Active,Lagos,9
+EMP0225,Fatima Adewale,Female,47,HR,Recruiter,457509,6/17/2023,Active,Lagos,2
+EMP0226,Peter Nwosu,Female,41,Operations,Operations Analyst,492317,8/21/2021,Active,Abuja,4
+EMP0227,Chioma Ibrahim,Male,48,Admin,Admin Officer,386009,8/9/2018,Active,Abuja,7
+EMP0228,David Nwosu,Male,25,Sales,Sales Executive,649431,4/13/2023,Active,Abuja,3
+EMP0229,Tunde Onyeka,Female,50,Operations,Procurement Officer,307391,8/30/2023,Active,Abuja,2
+EMP0230,Peter Ibrahim,Male,35,Sales,Sales Executive,689103,5/31/2021,Active,Abuja,4
+EMP0231,Esther Nwosu,Female,39,Marketing,Content Specialist,494684,10/20/2019,Active,Kano,6
+EMP0232,Michael Adewale,Female,28,Marketing,Marketing Analyst,395167,3/29/2019,Active,Kano,7
+EMP0233,Mary Onyeka,Female,30,Customer Support,Support Specialist,198517,5/28/2025,Active,Ibadan,0
+EMP0234,Fatima Bello,Female,44,Sales,Business Development Rep,572682,11/28/2017,Active,Abuja,8
+EMP0235,Samuel Adeyemi,Male,36,Operations,Procurement Officer,567007,1/5/2021,On Leave,Kano,5
+EMP0236,Mary Adewale,Female,34,Finance,Financial Analyst,577787,2/28/2018,Active,Abuja,8
+EMP0237,Tunde Abdullahi,Male,27,Operations,Operations Analyst,497006,11/11/2018,Active,Port Harcourt,7
+EMP0238,Mavis Adewale,Male,49,Finance,Financial Analyst,524932,9/24/2015,Active,Kano,10
+EMP0239,Tunde Okafor,Male,22,Sales,Sales Executive,443626,12/25/2015,Active,Ibadan,10
+EMP0240,Blessing Adeyemi,Female,55,Marketing,Marketing Analyst,506994,8/5/2016,Resigned,Abuja,9
+EMP0241,Emeka Abdullahi,Male,23,HR,HR Officer,442199,8/15/2016,Active,Kano,9
+EMP0242,Grace Bello,Male,23,IT,Data Analyst,471414,5/10/2025,Active,Ibadan,0
+EMP0243,David Ibe,Male,55,Customer Support,Support Specialist,241726,6/15/2021,Active,Kano,4
+EMP0244,Sarah Ojo,Female,55,Sales,Sales Executive,300659,10/28/2022,Resigned,Lagos,3
+EMP0245,Ruth Eze,Male,58,Finance,Financial Analyst,797783,8/22/2015,Active,Port Harcourt,10
+EMP0246,Mavis Onyeka,Male,33,IT,BI Analyst,727712,12/1/2025,Resigned,Remote,0
+EMP0247,Ruth Eze,Female,44,HR,Recruiter,298733,6/16/2018,Active,Remote,7
+EMP0248,Tunde Abdullahi,Female,32,Admin,Executive Assistant,349145,2/20/2025,Active,Ibadan,1
+EMP0249,Esther Ibrahim,Male,52,IT,BI Analyst,781262,3/4/2019,Active,Remote,7
+EMP0250,Peter Adeyemi,Male,49,Operations,Operations Analyst,461786,12/25/2015,Resigned,Remote,10
+EMP0251,Blessing Afolabi,Female,53,HR,HR Officer,376296,3/21/2024,Active,Lagos,2
+EMP0252,John Ogunleye,Female,58,Admin,Admin Officer,226907,3/16/2019,Active,Lagos,7
+EMP0253,Ruth Okafor,Male,51,Marketing,Marketing Analyst,424049,10/25/2020,Active,Remote,5
+EMP0254,Ibrahim Okafor,Male,43,Sales,Account Manager,476026,6/9/2020,Active,Kano,5
+EMP0255,Mary Okafor,Male,29,Sales,Account Manager,655803,1/10/2020,Resigned,Port Harcourt,6
+EMP0256,David Afolabi,Female,22,HR,HR Analyst,556771,4/6/2018,On Leave,Kano,8
+EMP0257,Esther Eze,Female,48,Operations,Procurement Officer,497421,5/11/2016,Active,Kano,9
+EMP0258,Sarah Bello,Male,34,Operations,Operations Analyst,600832,6/14/2022,Active,Ibadan,3
+EMP0259,Fatima Ibrahim,Female,56,Admin,Admin Officer,375703,9/25/2021,Active,Ibadan,4
+EMP0260,Blessing Ojo,Male,25,Marketing,SEO Specialist,573018,1/15/2022,Active,Remote,4
+EMP0261,Ruth Onyeka,Male,46,Marketing,Marketing Analyst,639897,9/29/2019,On Leave,Remote,6
+EMP0262,Fatima Ogunleye,Male,34,Operations,Logistics Coordinator,529403,9/12/2021,Active,Abuja,4
+EMP0263,Emeka Musa,Female,22,HR,HR Officer,330584,9/3/2020,Active,Remote,5
+EMP0264,Grace Nwosu,Male,33,Operations,Logistics Coordinator,471506,3/27/2018,Active,Ibadan,8
+EMP0265,Peter Adewale,Female,35,Operations,Procurement Officer,610716,8/2/2016,Active,Abuja,9
+EMP0266,John Eze,Female,46,IT,BI Analyst,619054,10/13/2024,Active,Ibadan,1
+EMP0267,David Ojo,Male,32,Finance,Auditor,628693,7/31/2017,Active,Remote,8
+EMP0268,Michael Adewale,Male,31,Customer Support,Customer Success Rep,312072,9/5/2025,Active,Port Harcourt,0
+EMP0269,John Bello,Female,47,Customer Support,Support Specialist,213154,11/20/2019,Active,Ibadan,6
+EMP0270,Michael Balogun,Female,41,Finance,Auditor,701224,3/17/2017,Active,Port Harcourt,9
+EMP0271,Peter Afolabi,Male,41,Marketing,SEO Specialist,541016,6/4/2015,Active,Kano,10
+EMP0272,Fatima Ojo,Female,35,Finance,Accountant,774809,1/11/2021,Active,Abuja,5
+EMP0273,Michael Okafor,Female,57,IT,Software Engineer,420634,12/1/2024,Active,Kano,1
+EMP0274,Sarah Afolabi,Male,42,Finance,Accountant,623140,9/12/2018,Active,Lagos,7
+EMP0275,Daniel Ibe,Male,36,Operations,Procurement Officer,433834,9/20/2015,Active,Lagos,10
+EMP0276,Mary Abdullahi,Male,39,HR,Recruiter,578528,7/28/2023,Active,Kano,2
+EMP0277,Esther Okafor,Male,57,Sales,Account Manager,471794,7/25/2021,Active,Ibadan,4
+EMP0278,James Adeyemi,Male,32,IT,BI Analyst,817896,2/18/2018,Active,Port Harcourt,8
+EMP0279,John Nwosu,Male,38,Sales,Account Manager,551521,12/31/2020,Resigned,Lagos,5
+EMP0280,Michael Ogunleye,Female,56,Marketing,Content Specialist,558112,1/31/2017,Active,Ibadan,9
+EMP0281,Grace Balogun,Female,52,Operations,Operations Analyst,380581,4/27/2017,Active,Abuja,9
+EMP0282,Mavis Ojo,Male,36,Operations,Operations Analyst,569744,11/12/2019,On Leave,Abuja,6
+EMP0283,Mavis Adewale,Male,54,HR,HR Analyst,337210,7/9/2025,Resigned,Remote,0
+EMP0284,Tunde Abdullahi,Male,35,Marketing,SEO Specialist,365009,6/24/2018,On Leave,Kano,7
+EMP0285,Esther Nwosu,Male,43,Marketing,Content Specialist,319317,6/29/2018,Active,Abuja,7
+EMP0286,Peter Ogunleye,Male,52,Finance,Accountant,760195,6/27/2016,Active,Remote,9
+EMP0287,Samuel Ibrahim,Female,45,Customer Support,Support Specialist,231231,5/6/2025,Active,Lagos,0
+EMP0288,Sarah Afolabi,Female,38,Marketing,Content Specialist,522504,4/27/2023,Active,Lagos,3
+EMP0289,Emeka Ibrahim,Female,38,HR,HR Analyst,441702,7/29/2021,Active,Port Harcourt,4
+EMP0290,Michael Ibe,Female,57,HR,HR Analyst,552855,8/26/2017,Active,Abuja,8
+EMP0291,Ibrahim Okafor,Male,54,Finance,Accountant,384273,11/8/2019,Resigned,Ibadan,6
+EMP0292,John Ibrahim,Female,27,Sales,Sales Executive,601894,4/11/2017,Resigned,Remote,9
+EMP0293,John Musa,Female,22,Admin,Admin Officer,361268,5/28/2022,Active,Remote,3
+EMP0294,Aisha Ogunleye,Male,27,IT,Software Engineer,720281,10/7/2021,Active,Remote,4
+EMP0295,Emeka Okafor,Female,39,Operations,Procurement Officer,396895,6/23/2022,Active,Ibadan,3
+EMP0296,Ruth Nwosu,Male,54,Operations,Logistics Coordinator,513561,7/28/2021,Active,Kano,4
+EMP0297,Esther Ogunleye,Female,29,IT,Data Analyst,751261,3/26/2022,Resigned,Remote,4
+EMP0298,Fatima Balogun,Male,40,Marketing,SEO Specialist,499852,10/6/2024,Resigned,Remote,1
+EMP0299,David Adewale,Female,34,Sales,Sales Executive,386308,12/27/2022,Active,Remote,3
+EMP0300,Esther Eze,Male,56,Admin,Executive Assistant,247938,8/25/2025,Terminated,Abuja,0
+EMP0301,Ruth Musa,Male,55,HR,HR Analyst,432079,8/29/2019,Active,Lagos,6
+EMP0302,Peter Musa,Male,46,IT,Software Engineer,691244,3/10/2017,Active,Abuja,9
+EMP0303,David Bello,Female,35,Admin,Executive Assistant,350966,5/7/2019,Active,Abuja,6
+EMP0304,Sarah Ibrahim,Female,34,Customer Support,Customer Success Rep,250501,2/12/2024,Active,Ibadan,2
+EMP0305,Fatima Musa,Male,47,Marketing,Content Specialist,499843,5/10/2024,Active,Kano,1
+EMP0306,Esther Ibe,Female,23,Marketing,SEO Specialist,552437,2/27/2020,Active,Port Harcourt,6
+EMP0307,Sarah Ojo,Female,40,Finance,Financial Analyst,755217,6/11/2018,Active,Ibadan,7
+EMP0308,Chioma Bello,Female,47,Marketing,Marketing Analyst,486080,9/14/2021,On Leave,Remote,4
+EMP0309,Aisha Okafor,Male,35,Marketing,Content Specialist,537537,10/8/2023,Active,Kano,2
+EMP0310,Mavis Adeyemi,Male,46,HR,HR Analyst,398989,1/2/2022,On Leave,Ibadan,4
+EMP0311,Mary Afolabi,Female,51,Operations,Procurement Officer,573306,12/12/2017,Active,Remote,8
+EMP0312,Esther Onyeka,Female,52,Marketing,Marketing Analyst,466113,1/4/2018,Active,Ibadan,8
+EMP0313,Mavis Ogunleye,Female,56,Marketing,Content Specialist,254788,5/11/2025,Active,Abuja,0
+EMP0314,Peter Ibrahim,Female,47,Customer Support,Customer Success Rep,401375,2/5/2023,Active,Ibadan,3
+EMP0315,Samuel Ojo,Female,34,Marketing,Content Specialist,488730,1/25/2025,Active,Lagos,1
+EMP0316,Mavis Ibe,Male,56,HR,HR Officer,391135,1/23/2026,Active,Ibadan,0
+EMP0317,Samuel Balogun,Female,53,Customer Support,Support Specialist,319724,9/4/2020,Active,Ibadan,5
+EMP0318,Daniel Adewale,Male,29,Customer Support,Customer Success Rep,289286,10/14/2022,Active,Abuja,3
+EMP0319,Sarah Adeyemi,Male,38,IT,BI Analyst,663328,6/8/2018,Active,Ibadan,7
+EMP0320,Peter Musa,Female,37,Finance,Auditor,660923,4/7/2026,Active,Lagos,0
+EMP0321,Mavis Bello,Female,31,IT,IT Support,481939,3/7/2018,Active,Ibadan,8
+EMP0322,James Musa,Female,24,HR,HR Analyst,404515,5/4/2018,Active,Port Harcourt,7
+EMP0323,Tunde Adewale,Male,26,Marketing,Marketing Analyst,442472,2/10/2018,Active,Kano,8
+EMP0324,Ibrahim Nwosu,Male,42,Operations,Logistics Coordinator,549127,5/26/2024,Active,Lagos,1
+EMP0325,Blessing Nwosu,Male,24,Finance,Financial Analyst,405947,1/28/2024,Active,Kano,2
+EMP0326,Emeka Bello,Male,45,Marketing,Content Specialist,507638,6/23/2022,Active,Ibadan,3
+EMP0327,Grace Ogunleye,Female,55,IT,BI Analyst,668667,3/23/2026,Active,Kano,0
+EMP0328,Emeka Afolabi,Female,28,HR,HR Analyst,490501,7/10/2015,Active,Ibadan,10
+EMP0329,Emeka Ojo,Female,44,HR,Recruiter,444888,7/22/2020,Active,Kano,5
+EMP0330,Michael Ojo,Female,50,Marketing,Content Specialist,562351,10/9/2018,Active,Lagos,7
+EMP0331,Daniel Okafor,Male,28,Marketing,SEO Specialist,442457,9/5/2025,Active,Port Harcourt,0
+EMP0332,Mary Afolabi,Male,42,Sales,Sales Executive,329998,2/1/2019,Active,Lagos,7
+EMP0333,John Musa,Female,49,Operations,Procurement Officer,592339,2/28/2020,Active,Kano,6
+EMP0334,Daniel Ibrahim,Female,54,HR,Recruiter,455983,2/10/2023,Active,Abuja,3
+EMP0335,Chioma Ibrahim,Female,27,HR,HR Officer,459291,7/12/2018,Active,Port Harcourt,7
+EMP0336,Ibrahim Musa,Female,47,Sales,Business Development Rep,665701,7/13/2015,Active,Kano,10
+EMP0337,James Abdullahi,Male,48,Finance,Financial Analyst,399871,10/25/2019,Active,Kano,6
+EMP0338,Daniel Adeyemi,Female,24,HR,Recruiter,294991,1/17/2023,Resigned,Remote,3
+EMP0339,Chioma Bello,Female,50,Finance,Auditor,409581,4/19/2019,Active,Remote,7
+EMP0340,Mavis Okafor,Female,55,IT,IT Support,528593,12/19/2025,Active,Remote,0
+EMP0341,Emeka Okafor,Female,28,Marketing,Marketing Analyst,622081,11/30/2025,On Leave,Abuja,0
+EMP0342,James Nwosu,Male,24,Admin,Executive Assistant,290906,8/1/2022,Active,Abuja,3
+EMP0343,Esther Nwosu,Male,38,Marketing,SEO Specialist,455964,4/14/2020,Active,Remote,6
+EMP0344,Mary Ogunleye,Female,37,Sales,Business Development Rep,452640,2/11/2017,Active,Abuja,9
+EMP0345,Chioma Bello,Female,55,HR,HR Officer,546141,9/21/2023,Active,Ibadan,2
+EMP0346,Peter Eze,Female,41,Customer Support,Support Specialist,193735,6/8/2018,Terminated,Kano,7
+EMP0347,Samuel Ibe,Male,23,Sales,Sales Executive,597043,3/20/2021,On Leave,Abuja,5
+EMP0348,Tunde Adewale,Male,24,Sales,Account Manager,396682,4/22/2020,Active,Kano,6
+EMP0349,Mary Abdullahi,Female,51,Admin,Admin Officer,303324,9/23/2022,Active,Kano,3
+EMP0350,John Ojo,Female,51,Finance,Financial Analyst,581998,12/24/2025,Active,Port Harcourt,0
+EMP0351,Ruth Okafor,Female,40,Customer Support,Support Specialist,254574,2/4/2019,On Leave,Abuja,7
+EMP0352,Tunde Bello,Female,48,HR,HR Analyst,487859,9/11/2020,Active,Lagos,5
+EMP0353,John Ibrahim,Male,50,Finance,Accountant,574631,10/28/2015,Active,Ibadan,10
+EMP0354,Chioma Ojo,Male,31,HR,HR Officer,411513,4/30/2023,Active,Kano,2
+EMP0355,Aisha Abdullahi,Male,51,Marketing,SEO Specialist,363704,8/18/2018,Active,Lagos,7
+EMP0356,Peter Eze,Female,57,Sales,Account Manager,622505,4/4/2023,Active,Lagos,3
+EMP0357,James Adewale,Male,48,IT,Data Analyst,648194,2/6/2024,Active,Lagos,2
+EMP0358,Fatima Musa,Female,45,Marketing,SEO Specialist,403528,3/26/2020,Active,Port Harcourt,6
+EMP0359,Fatima Ogunleye,Male,25,Sales,Business Development Rep,693235,7/10/2024,On Leave,Kano,1
+EMP0360,Ruth Nwosu,Male,58,Operations,Operations Analyst,412299,8/7/2018,Active,Remote,7
+EMP0361,Aisha Eze,Female,48,Sales,Account Manager,391326,11/9/2025,Active,Kano,0
+EMP0362,Samuel Adewale,Male,29,Operations,Logistics Coordinator,352080,11/12/2015,On Leave,Lagos,10
+EMP0363,Sarah Ogunleye,Female,31,HR,HR Analyst,467030,9/8/2015,Active,Lagos,10
+EMP0364,Tunde Abdullahi,Female,44,Sales,Sales Executive,457813,2/11/2025,Active,Ibadan,1
+EMP0365,David Musa,Male,39,Operations,Operations Analyst,418664,3/16/2020,Active,Abuja,6
+EMP0366,David Onyeka,Female,54,Finance,Auditor,380781,8/24/2025,Active,Remote,0
+EMP0367,John Okafor,Male,24,HR,HR Analyst,252154,10/14/2018,Active,Remote,7
+EMP0368,Fatima Balogun,Male,58,Marketing,Marketing Analyst,400243,6/6/2021,Active,Ibadan,4
+EMP0369,Mary Ojo,Male,57,Finance,Accountant,584441,3/9/2018,On Leave,Lagos,8
+EMP0370,Blessing Balogun,Female,56,Marketing,SEO Specialist,276453,4/5/2019,Active,Kano,7
+EMP0371,Ruth Ibe,Female,41,Admin,Admin Officer,225496,1/18/2021,Active,Abuja,5
+EMP0372,Samuel Ibe,Female,45,HR,HR Officer,420268,1/27/2020,Active,Ibadan,6
+EMP0373,Michael Abdullahi,Male,54,Operations,Operations Analyst,418396,10/3/2024,Active,Kano,1
+EMP0374,Tunde Nwosu,Female,46,HR,HR Analyst,559838,11/5/2024,Active,Lagos,1
+EMP0375,Peter Ibrahim,Male,51,Admin,Executive Assistant,356830,7/19/2020,Active,Ibadan,5
+EMP0376,Ruth Ojo,Male,27,Admin,Admin Officer,302231,2/17/2023,Active,Remote,3
+EMP0377,Daniel Adeyemi,Female,58,Operations,Logistics Coordinator,264256,11/27/2015,On Leave,Kano,10
+EMP0378,Blessing Afolabi,Male,57,IT,IT Support,645917,3/4/2021,Active,Port Harcourt,5
+EMP0379,Mavis Balogun,Male,52,Sales,Business Development Rep,498751,1/23/2024,Active,Port Harcourt,2
+EMP0380,Esther Afolabi,Male,27,Customer Support,Customer Success Rep,403191,6/5/2023,Active,Port Harcourt,2
+EMP0381,Mary Musa,Male,33,Operations,Operations Analyst,523050,6/25/2019,Resigned,Lagos,6
+EMP0382,Aisha Ojo,Female,29,Admin,Executive Assistant,337194,8/27/2016,Resigned,Remote,9
+EMP0383,Daniel Eze,Female,25,Finance,Accountant,545822,7/30/2020,Active,Lagos,5
+EMP0384,Chioma Ogunleye,Female,25,Marketing,Marketing Analyst,402962,9/1/2015,Active,Ibadan,10
+EMP0385,Tunde Eze,Male,39,Marketing,SEO Specialist,341547,12/19/2021,Active,Abuja,4
+EMP0386,Tunde Ojo,Male,55,Admin,Executive Assistant,262376,11/4/2025,Active,Lagos,0
+EMP0387,Blessing Ibe,Male,25,Marketing,Content Specialist,641197,9/4/2023,Active,Abuja,2
+EMP0388,Fatima Musa,Male,40,Customer Support,Customer Success Rep,365507,10/17/2018,Active,Ibadan,7
+EMP0389,Tunde Musa,Female,47,Finance,Auditor,684991,5/20/2018,Active,Lagos,7
+EMP0390,Peter Okafor,Male,22,IT,Data Analyst,458954,3/10/2020,Active,Kano,6
+EMP0391,Fatima Eze,Male,29,Sales,Account Manager,680481,6/23/2024,Active,Remote,1
+EMP0392,John Eze,Female,39,Finance,Financial Analyst,434918,5/11/2019,Active,Abuja,6
+EMP0393,David Adewale,Male,53,Admin,Executive Assistant,257248,6/21/2022,Active,Remote,3
+EMP0394,Fatima Balogun,Male,24,Marketing,SEO Specialist,510938,3/23/2025,Active,Ibadan,1
+EMP0395,Samuel Okafor,Male,54,Customer Support,Customer Success Rep,381548,8/29/2018,On Leave,Ibadan,7
+EMP0396,Emeka Adeyemi,Female,25,Marketing,Content Specialist,292182,6/4/2015,Active,Remote,10
+EMP0397,Mary Ojo,Female,46,Sales,Account Manager,611764,6/10/2024,Active,Port Harcourt,1
+EMP0398,Esther Ibe,Female,53,Finance,Auditor,319421,9/12/2017,Active,Kano,8
+EMP0399,Mavis Balogun,Male,26,HR,HR Analyst,259994,2/15/2026,Active,Lagos,0
+EMP0400,Ibrahim Musa,Male,51,Marketing,SEO Specialist,510646,2/2/2017,On Leave,Remote,9
+EMP0401,Fatima Balogun,Female,29,Customer Support,Customer Success Rep,270936,7/11/2015,Active,Abuja,10
+EMP0402,Samuel Okafor,Male,50,Operations,Operations Analyst,581095,7/6/2022,Active,Lagos,3
+EMP0403,Michael Balogun,Male,40,HR,HR Analyst,316528,5/10/2019,Active,Remote,6
+EMP0404,David Abdullahi,Male,53,IT,Software Engineer,665830,3/16/2017,Terminated,Kano,9
+EMP0405,John Adeyemi,Female,35,Sales,Business Development Rep,639265,4/2/2022,Active,Ibadan,4
+EMP0406,Samuel Ogunleye,Male,49,Marketing,Marketing Analyst,277502,11/9/2021,Active,Lagos,4
+EMP0407,Grace Afolabi,Female,42,Sales,Sales Executive,450987,1/19/2020,Active,Lagos,6
+EMP0408,Grace Nwosu,Female,25,Admin,Executive Assistant,235757,2/15/2020,Active,Ibadan,6
+EMP0409,Michael Adewale,Female,30,Sales,Account Manager,338253,5/9/2025,Active,Kano,0
+EMP0410,Ibrahim Bello,Male,58,HR,HR Officer,523557,1/3/2018,Active,Abuja,8
+EMP0411,Samuel Ibrahim,Female,36,Operations,Procurement Officer,524354,2/13/2017,Active,Lagos,9
+EMP0412,Aisha Adeyemi,Female,37,Admin,Executive Assistant,262668,7/17/2024,Active,Remote,1
+EMP0413,Mavis Onyeka,Male,51,Marketing,SEO Specialist,322678,7/6/2016,Active,Lagos,9
+EMP0414,Sarah Bello,Female,55,Customer Support,Support Specialist,288604,11/28/2025,Active,Kano,0
+EMP0415,Grace Balogun,Male,29,Operations,Logistics Coordinator,351890,10/25/2019,Active,Abuja,6
+EMP0416,James Ibe,Female,35,Finance,Financial Analyst,770775,11/16/2022,Active,Kano,3
+EMP0417,Blessing Adewale,Female,56,Finance,Accountant,536966,8/2/2015,Active,Ibadan,10
+EMP0418,Emeka Adewale,Male,32,Finance,Accountant,560219,3/3/2022,Active,Port Harcourt,4
+EMP0419,Sarah Ibe,Female,50,Operations,Procurement Officer,532430,4/20/2016,Active,Remote,10
+EMP0420,Daniel Ibe,Female,41,Admin,Admin Officer,212404,2/22/2017,Active,Kano,9
+EMP0421,Tunde Ojo,Female,33,HR,HR Analyst,374730,5/2/2023,Active,Remote,2
+EMP0422,Chioma Ibe,Female,44,IT,Software Engineer,820211,10/21/2023,Resigned,Abuja,2
+EMP0423,John Balogun,Female,40,IT,Data Analyst,504228,12/3/2018,Active,Ibadan,7
+EMP0424,Aisha Ogunleye,Female,36,IT,IT Support,446973,10/30/2018,Active,Remote,7
+EMP0425,James Afolabi,Female,34,Finance,Financial Analyst,794614,11/19/2018,On Leave,Lagos,7
+EMP0426,Ibrahim Bello,Female,44,Marketing,Content Specialist,467899,9/13/2021,On Leave,Abuja,4
+EMP0427,Fatima Afolabi,Male,35,Finance,Accountant,334663,8/29/2021,Active,Kano,4
+EMP0428,Ruth Ojo,Male,34,Admin,Admin Officer,329525,10/16/2023,Active,Lagos,2
+EMP0429,Michael Adeyemi,Female,41,HR,HR Officer,592786,6/10/2015,Resigned,Ibadan,10
+EMP0430,Mary Adeyemi,Male,45,Admin,Executive Assistant,297832,8/27/2016,Active,Abuja,9
+EMP0431,James Adeyemi,Male,42,IT,Software Engineer,492079,5/11/2018,Resigned,Ibadan,7
+EMP0432,James Okafor,Male,33,Finance,Auditor,585061,6/26/2024,Active,Kano,1
+EMP0433,Michael Onyeka,Male,22,Operations,Operations Analyst,345474,8/7/2023,Active,Kano,2
+EMP0434,Peter Ogunleye,Female,51,Finance,Financial Analyst,784132,2/28/2025,On Leave,Abuja,1
+EMP0435,David Okafor,Male,29,Marketing,Marketing Analyst,315716,2/23/2023,Active,Port Harcourt,3
+EMP0436,Mavis Ibrahim,Male,34,Customer Support,Support Specialist,202691,4/12/2025,Active,Lagos,1
+EMP0437,Esther Ibrahim,Male,33,Sales,Business Development Rep,671222,11/3/2015,Active,Kano,10
+EMP0438,Grace Adewale,Male,28,Sales,Business Development Rep,427774,4/23/2017,Active,Remote,9
+EMP0439,Sarah Okafor,Female,33,Admin,Executive Assistant,259651,5/21/2018,Active,Lagos,7
+EMP0440,Daniel Nwosu,Female,45,HR,Recruiter,422026,7/18/2021,Active,Abuja,4
+EMP0441,Ruth Ogunleye,Female,49,Customer Support,Support Specialist,437765,3/25/2023,Active,Lagos,3
+EMP0442,Ibrahim Bello,Female,47,HR,Recruiter,440688,3/9/2017,Active,Ibadan,9
+EMP0443,Samuel Ojo,Female,44,Marketing,SEO Specialist,327266,5/24/2018,Active,Abuja,7
+EMP0444,David Ibrahim,Male,25,IT,Data Analyst,378048,8/16/2024,Active,Remote,1
+EMP0445,David Afolabi,Female,34,Admin,Executive Assistant,208283,5/26/2021,Terminated,Ibadan,4
+EMP0446,Blessing Ibe,Female,51,Customer Support,Support Specialist,437676,4/12/2026,Active,Kano,0
+EMP0447,Daniel Musa,Female,52,Admin,Admin Officer,361727,2/9/2018,Active,Lagos,8
+EMP0448,Ibrahim Musa,Male,45,IT,Data Analyst,378206,7/5/2020,Terminated,Remote,5
+EMP0449,John Ibe,Male,37,Sales,Business Development Rep,439861,11/23/2015,Active,Port Harcourt,10
+EMP0450,Grace Musa,Female,23,Customer Support,Customer Success Rep,231236,7/3/2018,Active,Kano,7
+EMP0451,Daniel Abdullahi,Male,41,Operations,Logistics Coordinator,540931,9/18/2020,Active,Abuja,5
+EMP0452,Ibrahim Nwosu,Male,43,Finance,Auditor,523926,3/26/2022,On Leave,Ibadan,4
+EMP0453,Ruth Eze,Female,47,Sales,Business Development Rep,374686,6/14/2021,Active,Kano,4
+EMP0454,Aisha Nwosu,Male,55,Customer Support,Support Specialist,337430,10/25/2022,Active,Port Harcourt,3
+EMP0455,Daniel Ibe,Female,32,Marketing,Content Specialist,328623,5/13/2021,Active,Kano,4
+EMP0456,Samuel Ibrahim,Female,24,Customer Support,Support Specialist,272266,2/7/2023,On Leave,Lagos,3
+EMP0457,Esther Adewale,Female,41,Finance,Accountant,652149,10/2/2024,Active,Kano,1
+EMP0458,David Balogun,Female,27,Marketing,Marketing Analyst,556355,6/26/2022,Active,Ibadan,3
+EMP0459,Fatima Adewale,Female,38,Admin,Admin Officer,324480,4/2/2017,Active,Ibadan,9
+EMP0460,Daniel Nwosu,Female,41,Admin,Executive Assistant,266317,6/2/2025,Active,Remote,0
+EMP0461,Tunde Adewale,Male,50,Finance,Financial Analyst,786280,4/25/2020,On Leave,Remote,6
+EMP0462,Esther Okafor,Female,24,Operations,Logistics Coordinator,481441,3/19/2022,Active,Port Harcourt,4
+EMP0463,Daniel Musa,Female,23,Operations,Procurement Officer,331351,6/4/2025,Active,Lagos,0
+EMP0464,Chioma Eze,Male,37,Finance,Accountant,744051,6/2/2017,On Leave,Remote,8
+EMP0465,Peter Nwosu,Female,34,Operations,Operations Analyst,377695,9/28/2024,Resigned,Lagos,1
+EMP0466,Mary Okafor,Male,38,Admin,Admin Officer,296448,4/3/2024,Active,Remote,2
+EMP0467,Grace Abdullahi,Female,53,Customer Support,Support Specialist,380316,1/4/2025,Active,Ibadan,1
+EMP0468,Ruth Okafor,Female,33,Sales,Sales Executive,403462,2/15/2020,Active,Port Harcourt,6
+EMP0469,John Musa,Female,47,HR,HR Officer,471926,1/13/2016,Active,Port Harcourt,10
+EMP0470,Tunde Ogunleye,Male,22,Operations,Logistics Coordinator,329330,8/14/2021,Active,Ibadan,4
+EMP0471,Fatima Bello,Male,27,Admin,Executive Assistant,330865,5/1/2020,On Leave,Port Harcourt,5
+EMP0472,Ruth Adeyemi,Female,38,Marketing,Marketing Analyst,636331,11/21/2017,On Leave,Abuja,8
+EMP0473,Emeka Ibe,Male,33,IT,IT Support,622864,8/31/2025,Active,Port Harcourt,0
+EMP0474,Mary Ojo,Male,29,Finance,Auditor,755172,3/13/2021,Resigned,Lagos,5
+EMP0475,David Onyeka,Female,26,HR,Recruiter,422311,8/17/2022,Active,Abuja,3
+EMP0476,Ruth Musa,Male,51,IT,BI Analyst,826111,8/29/2015,Active,Abuja,10
+EMP0477,Grace Balogun,Female,42,IT,IT Support,749917,3/23/2026,Active,Port Harcourt,0
+EMP0478,James Ogunleye,Male,29,Marketing,Marketing Analyst,566414,8/21/2021,Active,Port Harcourt,4
+EMP0479,John Ogunleye,Female,52,Admin,Executive Assistant,365330,7/15/2021,Active,Port Harcourt,4
+EMP0480,Daniel Onyeka,Male,53,Sales,Sales Executive,509300,6/12/2017,Terminated,Kano,8
+EMP0481,Mary Onyeka,Female,58,Customer Support,Customer Success Rep,402777,7/20/2025,Active,Ibadan,0
+EMP0482,Mary Bello,Male,54,Marketing,Content Specialist,273728,3/1/2026,Active,Remote,0
+EMP0483,Blessing Okafor,Female,43,Admin,Admin Officer,340083,1/11/2024,Active,Abuja,2
+EMP0484,Chioma Adeyemi,Female,47,Admin,Admin Officer,279339,6/27/2015,Active,Lagos,10
+EMP0485,Ruth Balogun,Male,23,IT,IT Support,502205,8/26/2022,Active,Port Harcourt,3
+EMP0486,Blessing Adeyemi,Male,32,IT,Software Engineer,816895,5/5/2023,Active,Lagos,2
+EMP0487,Esther Adeyemi,Female,48,Finance,Financial Analyst,319407,7/8/2018,Active,Kano,7
+EMP0488,Tunde Eze,Male,39,Operations,Procurement Officer,441804,9/30/2015,Active,Abuja,10
+EMP0489,Blessing Afolabi,Female,50,Admin,Executive Assistant,234382,8/13/2022,Resigned,Port Harcourt,3
+EMP0490,Samuel Eze,Male,40,HR,HR Officer,340854,5/22/2024,Active,Abuja,1
+EMP0491,David Ogunleye,Male,44,IT,BI Analyst,516309,10/29/2021,Active,Port Harcourt,4
+EMP0492,Ruth Ibrahim,Female,44,Marketing,Content Specialist,520211,7/17/2025,Active,Lagos,0
+EMP0493,Ruth Ibrahim,Male,57,Finance,Auditor,387580,8/12/2025,Active,Port Harcourt,0
+EMP0494,Esther Balogun,Male,45,Finance,Accountant,744908,2/18/2021,Active,Ibadan,5
+EMP0495,Ruth Onyeka,Female,45,Operations,Procurement Officer,332348,5/26/2015,Resigned,Remote,10
+EMP0496,Blessing Ibrahim,Male,50,Operations,Operations Analyst,425048,4/23/2024,Active,Remote,2
+EMP0497,Esther Abdullahi,Male,55,HR,HR Officer,540251,9/27/2021,On Leave,Remote,4
+EMP0498,Emeka Musa,Female,35,Customer Support,Customer Success Rep,283439,6/15/2017,Active,Remote,8
+EMP0499,Emeka Abdullahi,Female,35,HR,Recruiter,428629,8/10/2024,Resigned,Abuja,1
+EMP0500,David Ibe,Female,54,Marketing,Content Specialist,435846,3/29/2025,Active,Kano,1
+EMP0501,Michael Okafor,Female,43,IT,Software Engineer,595196,7/6/2022,Active,Kano,3
+EMP0502,Ruth Okafor,Female,51,Sales,Account Manager,322963,2/12/2025,Active,Remote,1
+EMP0503,Ruth Balogun,Female,38,Customer Support,Support Specialist,255678,8/18/2016,Active,Remote,9
+EMP0504,John Ogunleye,Female,52,Sales,Sales Executive,595411,2/7/2026,Active,Lagos,0
+EMP0505,Grace Balogun,Female,45,Operations,Procurement Officer,481122,11/30/2021,Resigned,Port Harcourt,4
+EMP0506,Samuel Onyeka,Male,57,IT,BI Analyst,396852,3/26/2021,Active,Abuja,5
+EMP0507,Sarah Ogunleye,Female,50,Admin,Admin Officer,261032,11/14/2023,Resigned,Remote,2
+EMP0508,Grace Abdullahi,Female,27,Admin,Admin Officer,368798,5/2/2023,Active,Kano,2
+EMP0509,Peter Musa,Female,54,Sales,Account Manager,692487,2/26/2026,On Leave,Kano,0
+EMP0510,David Ogunleye,Female,23,IT,BI Analyst,539276,9/18/2020,Active,Ibadan,5
+EMP0511,John Eze,Male,38,HR,Recruiter,463530,2/9/2025,Active,Lagos,1
+EMP0512,Esther Afolabi,Male,48,Operations,Operations Analyst,385631,12/18/2020,Active,Ibadan,5
+EMP0513,Mary Nwosu,Female,51,IT,Data Analyst,418637,10/4/2017,Active,Abuja,8
+EMP0514,Michael Ogunleye,Female,58,HR,Recruiter,583341,9/14/2019,Terminated,Kano,6
+EMP0515,Blessing Musa,Male,22,Admin,Admin Officer,356727,6/17/2018,Active,Kano,7
+EMP0516,Fatima Adewale,Male,32,Marketing,Content Specialist,616178,7/16/2017,Active,Abuja,8
+EMP0517,Chioma Nwosu,Female,38,Operations,Operations Analyst,501067,12/12/2018,Resigned,Kano,7
+EMP0518,Emeka Adeyemi,Male,22,Admin,Executive Assistant,370156,2/2/2016,Active,Remote,10
+EMP0519,Mavis Ibrahim,Female,46,Finance,Financial Analyst,392896,10/29/2016,Active,Remote,9
+EMP0520,Peter Ojo,Male,27,Operations,Operations Analyst,450316,6/14/2016,Active,Abuja,9
+EMP0521,Aisha Balogun,Male,39,Customer Support,Customer Success Rep,272027,8/17/2016,Active,Kano,9
+EMP0522,Ibrahim Eze,Female,34,Sales,Sales Executive,517988,4/19/2016,Active,Remote,10
+EMP0523,Sarah Okafor,Female,45,Admin,Admin Officer,201352,4/8/2018,Active,Remote,8
+EMP0524,Mavis Abdullahi,Female,26,Sales,Business Development Rep,312948,1/19/2023,Active,Ibadan,3
+EMP0525,David Nwosu,Male,28,Marketing,Content Specialist,522459,12/29/2018,Active,Kano,7
+EMP0526,Ibrahim Okafor,Male,25,Finance,Accountant,766660,10/17/2025,Active,Remote,0
+EMP0527,Ibrahim Adewale,Male,40,IT,Data Analyst,450485,10/7/2019,Active,Ibadan,6
+EMP0528,Esther Eze,Female,55,IT,Software Engineer,551831,7/3/2020,Active,Port Harcourt,5
+EMP0529,Daniel Abdullahi,Female,33,Admin,Admin Officer,370840,2/18/2023,Active,Abuja,3
+EMP0530,Emeka Onyeka,Female,43,Admin,Admin Officer,262229,10/23/2021,Active,Port Harcourt,4
+EMP0531,Sarah Abdullahi,Male,34,Operations,Logistics Coordinator,505053,1/18/2016,Active,Port Harcourt,10
+EMP0532,Samuel Bello,Male,28,Operations,Logistics Coordinator,380729,4/9/2019,Active,Remote,7
+EMP0533,Grace Nwosu,Male,47,Customer Support,Customer Success Rep,240392,4/25/2024,Active,Lagos,2
+EMP0534,Tunde Onyeka,Male,34,IT,Software Engineer,579580,1/30/2022,Active,Lagos,4
+EMP0535,Esther Ibrahim,Male,46,IT,IT Support,704820,3/5/2016,Active,Remote,10
+EMP0536,John Ibrahim,Male,31,Finance,Auditor,579212,1/22/2024,Active,Kano,2
+EMP0537,Samuel Ibrahim,Female,31,Sales,Business Development Rep,346300,12/24/2020,Active,Kano,5
+EMP0538,Samuel Bello,Male,54,Finance,Financial Analyst,496223,6/4/2019,Active,Port Harcourt,6
+EMP0539,James Eze,Female,24,Marketing,SEO Specialist,364606,1/7/2023,Active,Lagos,3
+EMP0540,Ibrahim Afolabi,Male,40,HR,Recruiter,556164,8/8/2018,Active,Port Harcourt,7
+EMP0541,Esther Ogunleye,Female,46,Operations,Procurement Officer,448268,1/27/2026,On Leave,Lagos,0
+EMP0542,Fatima Ojo,Male,28,Marketing,SEO Specialist,424985,3/23/2025,Active,Kano,1
+EMP0543,Chioma Onyeka,Female,22,HR,Recruiter,461713,12/6/2021,Active,Abuja,4
+EMP0544,Ibrahim Ojo,Male,52,Sales,Account Manager,458603,8/8/2022,Active,Port Harcourt,3
+EMP0545,Blessing Ibrahim,Female,30,IT,Software Engineer,670415,2/24/2017,Active,Ibadan,9
+EMP0546,Sarah Abdullahi,Male,30,IT,IT Support,759873,11/11/2023,Active,Remote,2
+EMP0547,Blessing Eze,Male,32,Marketing,Marketing Analyst,264071,5/18/2024,Resigned,Abuja,1
+EMP0548,Ibrahim Ibe,Male,51,Marketing,SEO Specialist,465409,10/22/2025,Active,Lagos,0
+EMP0549,Ruth Eze,Male,30,Customer Support,Support Specialist,342693,11/22/2022,Active,Lagos,3
+EMP0550,Aisha Eze,Female,26,HR,HR Analyst,422433,6/25/2019,Active,Port Harcourt,6
+EMP0551,Tunde Bello,Female,47,Operations,Procurement Officer,486532,1/31/2017,Resigned,Lagos,9
+EMP0552,Emeka Okafor,Male,37,Customer Support,Customer Success Rep,438729,12/10/2023,Terminated,Lagos,2
+EMP0553,Ruth Afolabi,Female,48,Finance,Financial Analyst,408722,2/5/2019,Active,Remote,7
+EMP0554,Emeka Nwosu,Male,47,Customer Support,Support Specialist,434153,4/23/2026,Active,Remote,0
+EMP0555,Blessing Balogun,Male,52,Admin,Admin Officer,232545,2/6/2022,Active,Remote,4
+EMP0556,Esther Nwosu,Female,31,IT,Data Analyst,536583,10/29/2018,Active,Port Harcourt,7
+EMP0557,Mavis Afolabi,Female,25,Marketing,Marketing Analyst,355768,4/28/2017,Active,Lagos,9
+EMP0558,Grace Abdullahi,Male,26,Operations,Operations Analyst,528697,3/11/2023,Active,Kano,3
+EMP0559,Ruth Ojo,Female,29,Customer Support,Support Specialist,345800,1/10/2023,Active,Remote,3
+EMP0560,Peter Musa,Female,24,Marketing,SEO Specialist,303379,1/7/2025,Resigned,Remote,1
+EMP0561,Ruth Afolabi,Male,43,Customer Support,Support Specialist,189253,6/8/2023,Resigned,Kano,2
+EMP0562,Samuel Eze,Male,23,IT,BI Analyst,673851,2/26/2017,Active,Abuja,9
+EMP0563,Ibrahim Nwosu,Male,24,Customer Support,Customer Success Rep,200765,6/27/2022,Active,Lagos,3
+EMP0564,Ruth Nwosu,Female,43,Sales,Sales Executive,410200,1/14/2023,Active,Lagos,3
+EMP0565,Ibrahim Bello,Male,34,Admin,Executive Assistant,261947,6/8/2025,Active,Ibadan,0
+EMP0566,Samuel Okafor,Male,37,HR,Recruiter,399607,1/30/2020,On Leave,Port Harcourt,6
+EMP0567,Aisha Ibrahim,Male,52,Customer Support,Customer Success Rep,190386,9/26/2018,Active,Kano,7
+EMP0568,Samuel Ojo,Male,38,HR,HR Officer,398491,9/5/2019,Active,Abuja,6
+EMP0569,Mary Okafor,Male,54,IT,IT Support,774206,8/21/2020,Active,Lagos,5
+EMP0570,Blessing Adewale,Female,58,Finance,Financial Analyst,433828,1/20/2024,Active,Remote,2
+EMP0571,Michael Abdullahi,Male,52,Sales,Business Development Rep,618340,10/25/2025,Active,Remote,0
+EMP0572,Fatima Bello,Male,29,HR,Recruiter,557316,6/3/2024,On Leave,Kano,1
+EMP0573,Tunde Onyeka,Female,48,Customer Support,Customer Success Rep,388651,3/4/2025,Active,Lagos,1
+EMP0574,Samuel Balogun,Male,48,Finance,Auditor,684325,9/29/2017,Active,Lagos,8
+EMP0575,Daniel Okafor,Male,33,Admin,Executive Assistant,366837,3/30/2023,Active,Lagos,3
+EMP0576,Mavis Nwosu,Male,43,Marketing,SEO Specialist,648738,7/3/2025,Active,Lagos,0
+EMP0577,Sarah Musa,Male,55,Finance,Accountant,699173,10/18/2025,Active,Ibadan,0
+EMP0578,Esther Eze,Female,25,Customer Support,Support Specialist,193463,11/11/2020,Active,Ibadan,5
+EMP0579,Sarah Nwosu,Female,54,Admin,Executive Assistant,211994,5/27/2019,Resigned,Abuja,6
+EMP0580,Esther Adewale,Female,27,Admin,Admin Officer,386631,9/22/2020,Active,Abuja,5
+EMP0581,Aisha Okafor,Male,41,Admin,Executive Assistant,263794,7/25/2015,Active,Remote,10
+EMP0582,Emeka Nwosu,Male,42,IT,IT Support,581081,12/8/2019,Active,Lagos,6
+EMP0583,David Eze,Male,58,Operations,Operations Analyst,554597,3/28/2017,Active,Lagos,9
+EMP0584,Grace Onyeka,Female,34,Finance,Financial Analyst,366803,7/9/2024,Active,Port Harcourt,1
+EMP0585,Daniel Onyeka,Female,30,Operations,Operations Analyst,501488,5/26/2017,On Leave,Port Harcourt,8
+EMP0586,Grace Ibe,Male,40,Admin,Executive Assistant,385210,5/24/2023,Active,Remote,2
+EMP0587,Tunde Adeyemi,Male,43,Customer Support,Customer Success Rep,385420,1/12/2024,Terminated,Ibadan,2
+EMP0588,Mary Onyeka,Female,44,Customer Support,Support Specialist,386450,10/12/2019,Active,Remote,6
+EMP0589,Mavis Musa,Female,32,Marketing,SEO Specialist,325928,2/19/2017,Active,Kano,9
+EMP0590,Esther Nwosu,Male,46,Finance,Financial Analyst,785483,5/18/2019,Active,Kano,6
+EMP0591,Aisha Ibrahim,Male,47,Customer Support,Customer Success Rep,270432,4/12/2023,Active,Remote,3
+EMP0592,Mary Abdullahi,Female,50,Customer Support,Customer Success Rep,447255,4/24/2021,Active,Ibadan,5
+EMP0593,Emeka Balogun,Male,46,Finance,Financial Analyst,456428,6/4/2018,Resigned,Remote,7
+EMP0594,David Balogun,Female,57,IT,BI Analyst,862295,8/2/2017,Active,Lagos,8
+EMP0595,Esther Eze,Female,29,Admin,Executive Assistant,222180,2/22/2026,Terminated,Kano,0
+EMP0596,Sarah Ogunleye,Female,22,HR,Recruiter,522337,11/27/2022,Active,Kano,3
+EMP0597,Chioma Bello,Male,24,Sales,Business Development Rep,392833,4/11/2023,Active,Port Harcourt,3
+EMP0598,Grace Okafor,Female,38,Finance,Auditor,509746,6/2/2019,Active,Remote,6
+EMP0599,Peter Ojo,Male,45,Marketing,Marketing Analyst,330473,5/29/2016,Active,Ibadan,9
+EMP0600,David Afolabi,Male,57,Finance,Accountant,635637,3/27/2020,Active,Port Harcourt,6
+EMP0601,David Adewale,Male,33,Finance,Accountant,350090,11/25/2017,Active,Abuja,8
+EMP0602,Chioma Balogun,Female,33,Operations,Logistics Coordinator,264979,5/17/2020,Active,Kano,5
+EMP0603,Ibrahim Ogunleye,Male,45,Marketing,SEO Specialist,480141,5/17/2022,Active,Abuja,3
+EMP0604,Aisha Bello,Male,41,Marketing,Content Specialist,632705,11/21/2019,Active,Kano,6
+EMP0605,Grace Adewale,Male,49,Admin,Admin Officer,306291,8/14/2015,Active,Remote,10
+EMP0606,Chioma Ogunleye,Female,37,Customer Support,Customer Success Rep,298000,8/4/2015,Active,Lagos,10
+EMP0607,Grace Adeyemi,Female,46,Customer Support,Customer Success Rep,336855,10/20/2023,Active,Abuja,2
+EMP0608,James Adewale,Male,51,Marketing,SEO Specialist,491358,8/24/2016,Active,Abuja,9
+EMP0609,Mavis Balogun,Female,22,Customer Support,Customer Success Rep,395335,9/20/2024,Resigned,Abuja,1
+EMP0610,Tunde Balogun,Female,45,Admin,Executive Assistant,372039,10/25/2021,On Leave,Remote,4
+EMP0611,Grace Ibe,Male,44,Customer Support,Customer Success Rep,353651,3/4/2023,Active,Lagos,3
+EMP0612,Mavis Balogun,Female,57,Customer Support,Support Specialist,248900,5/16/2018,Resigned,Ibadan,7
+EMP0613,Ibrahim Ojo,Male,25,IT,BI Analyst,800536,11/7/2015,Active,Remote,10
+EMP0614,Mary Nwosu,Male,39,HR,HR Analyst,475002,12/15/2024,Active,Abuja,1
+EMP0615,Blessing Afolabi,Male,30,Sales,Business Development Rep,503505,4/10/2020,On Leave,Ibadan,6
+EMP0616,James Bello,Male,43,Sales,Account Manager,617574,8/28/2019,Active,Abuja,6
+EMP0617,Tunde Eze,Male,33,Operations,Logistics Coordinator,507494,4/28/2026,Active,Ibadan,0
+EMP0618,Mary Ogunleye,Female,29,Operations,Procurement Officer,433650,5/21/2024,On Leave,Ibadan,1
+EMP0619,Grace Ojo,Female,35,Sales,Business Development Rep,348411,10/16/2016,Active,Port Harcourt,9
+EMP0620,Ibrahim Ogunleye,Male,56,Finance,Auditor,680292,11/6/2016,Active,Ibadan,9
+EMP0621,Chioma Eze,Female,50,Operations,Operations Analyst,524172,3/1/2016,Active,Kano,10
+EMP0622,Blessing Abdullahi,Male,47,IT,Software Engineer,888430,5/15/2018,Active,Abuja,7
+EMP0623,Daniel Bello,Male,32,HR,Recruiter,518852,1/9/2017,On Leave,Kano,9
+EMP0624,John Nwosu,Male,36,Finance,Accountant,453009,7/29/2025,On Leave,Abuja,0
+EMP0625,Daniel Musa,Male,44,Finance,Accountant,470163,6/26/2015,Resigned,Remote,10
+EMP0626,Peter Ogunleye,Female,36,IT,BI Analyst,618422,1/29/2022,Active,Port Harcourt,4
+EMP0627,Aisha Ibe,Female,39,Sales,Sales Executive,401489,7/6/2022,Resigned,Port Harcourt,3
+EMP0628,Grace Okafor,Male,34,HR,HR Officer,397872,8/22/2016,Active,Lagos,9
+EMP0629,David Onyeka,Male,51,Customer Support,Support Specialist,232287,10/7/2015,Active,Remote,10
+EMP0630,Sarah Onyeka,Male,37,IT,Data Analyst,499564,12/12/2024,Active,Abuja,1
+EMP0631,Mavis Onyeka,Female,58,HR,HR Officer,501085,2/6/2019,Active,Lagos,7
+EMP0632,Daniel Ojo,Male,54,Marketing,SEO Specialist,368843,2/17/2020,Active,Port Harcourt,6
+EMP0633,Aisha Adewale,Female,32,Finance,Accountant,447751,1/4/2025,Resigned,Kano,1
+EMP0634,Fatima Adewale,Male,49,HR,Recruiter,472950,11/10/2017,On Leave,Remote,8
+EMP0635,Fatima Balogun,Female,26,Operations,Operations Analyst,510836,2/11/2026,Active,Ibadan,0
+EMP0636,Michael Afolabi,Male,46,HR,Recruiter,502333,11/17/2020,On Leave,Kano,5
+EMP0637,James Adeyemi,Female,56,Admin,Admin Officer,384311,1/3/2018,Active,Lagos,8
+EMP0638,Michael Adeyemi,Female,30,Operations,Procurement Officer,335570,3/29/2025,Active,Abuja,1
+EMP0639,Tunde Adeyemi,Male,46,Finance,Accountant,494869,5/7/2025,On Leave,Ibadan,0
+EMP0640,Sarah Ibe,Male,37,HR,HR Analyst,345642,4/22/2025,Active,Remote,1
+EMP0641,Ruth Ogunleye,Female,29,IT,Software Engineer,383679,3/29/2024,Active,Kano,2
+EMP0642,Blessing Balogun,Male,49,Marketing,SEO Specialist,639616,12/11/2023,Active,Kano,2
+EMP0643,David Okafor,Female,52,Finance,Financial Analyst,733719,5/30/2020,Active,Kano,5
+EMP0644,John Ojo,Male,37,Operations,Logistics Coordinator,422067,2/5/2022,Active,Lagos,4
+EMP0645,Blessing Bello,Female,24,IT,Software Engineer,447738,11/18/2025,Active,Abuja,0
+EMP0646,John Eze,Female,48,Finance,Accountant,723359,3/10/2018,On Leave,Abuja,8
+EMP0647,Sarah Eze,Male,27,Admin,Executive Assistant,317304,1/9/2023,Active,Kano,3
+EMP0648,Daniel Ogunleye,Male,46,Customer Support,Support Specialist,187833,1/13/2023,Active,Port Harcourt,3
+EMP0649,Ruth Eze,Female,42,Finance,Financial Analyst,335736,11/29/2023,Active,Ibadan,2
+EMP0650,Peter Musa,Male,29,Admin,Executive Assistant,315560,8/24/2016,Active,Lagos,9
+EMP0651,Tunde Abdullahi,Female,38,Customer Support,Customer Success Rep,261035,4/9/2016,Active,Lagos,10
+EMP0652,David Adewale,Female,51,Sales,Account Manager,616846,3/14/2016,Active,Port Harcourt,10
+EMP0653,Emeka Balogun,Female,43,Sales,Account Manager,391482,11/17/2024,Active,Abuja,1
+EMP0654,Mavis Ibrahim,Female,58,Sales,Business Development Rep,693956,6/25/2025,Active,Port Harcourt,0
+EMP0655,Fatima Balogun,Female,33,Marketing,Marketing Analyst,406414,2/15/2025,Active,Lagos,1
+EMP0656,Mary Afolabi,Female,41,Customer Support,Support Specialist,264247,1/18/2024,Active,Kano,2
+EMP0657,Ibrahim Eze,Male,31,Sales,Business Development Rep,520469,5/24/2020,Active,Remote,5
+EMP0658,James Ojo,Female,30,IT,BI Analyst,452179,9/13/2015,Active,Remote,10
+EMP0659,James Onyeka,Female,45,IT,IT Support,671876,11/25/2025,Active,Kano,0
+EMP0660,Ibrahim Nwosu,Male,33,Operations,Logistics Coordinator,544564,9/23/2018,Active,Remote,7
+EMP0661,Mary Ibrahim,Male,28,Finance,Accountant,623097,5/31/2024,Active,Remote,1
+EMP0662,Blessing Adeyemi,Female,35,Marketing,Content Specialist,315242,9/9/2022,Resigned,Abuja,3
+EMP0663,Esther Onyeka,Female,38,Marketing,SEO Specialist,258142,9/29/2021,On Leave,Kano,4
+EMP0664,Mary Afolabi,Female,32,Operations,Operations Analyst,597869,9/22/2016,On Leave,Remote,9
+EMP0665,Blessing Onyeka,Male,47,Customer Support,Customer Success Rep,444375,8/8/2020,Active,Kano,5
+EMP0666,Aisha Abdullahi,Female,35,HR,Recruiter,256049,3/12/2025,Active,Lagos,1
+EMP0667,Aisha Adewale,Female,44,HR,HR Officer,351622,12/28/2023,Active,Remote,2
+EMP0668,James Adewale,Male,29,IT,BI Analyst,478643,6/29/2018,Active,Port Harcourt,7
+EMP0669,Ruth Ibrahim,Female,23,Finance,Accountant,628037,3/23/2020,Active,Abuja,6
+EMP0670,Fatima Adewale,Male,33,Marketing,Marketing Analyst,503708,7/15/2015,Active,Abuja,10
+EMP0671,Chioma Eze,Male,55,IT,Software Engineer,576813,2/11/2018,Active,Port Harcourt,8
+EMP0672,Fatima Afolabi,Male,44,Sales,Sales Executive,508622,6/1/2017,Active,Kano,8
+EMP0673,Grace Abdullahi,Male,35,Marketing,Content Specialist,392435,9/21/2018,Active,Ibadan,7
+EMP0674,Tunde Ibrahim,Female,32,Finance,Financial Analyst,607688,8/10/2025,Active,Port Harcourt,0
+EMP0675,Sarah Ojo,Female,37,HR,Recruiter,326042,1/8/2025,Active,Kano,1
+EMP0676,Aisha Abdullahi,Male,57,Operations,Procurement Officer,313959,10/13/2024,Active,Port Harcourt,1
+EMP0677,Tunde Abdullahi,Female,42,Customer Support,Customer Success Rep,400849,1/19/2023,Active,Kano,3
+EMP0678,Emeka Adewale,Male,58,Customer Support,Support Specialist,248712,12/4/2025,Active,Ibadan,0
+EMP0679,Samuel Abdullahi,Male,52,IT,Data Analyst,665619,9/28/2024,Active,Port Harcourt,1
+EMP0680,Sarah Onyeka,Female,53,Marketing,SEO Specialist,265355,2/28/2016,Active,Remote,10
+EMP0681,Daniel Okafor,Male,32,Customer Support,Customer Success Rep,316151,1/21/2025,Active,Ibadan,1
+EMP0682,David Ogunleye,Female,32,Customer Support,Support Specialist,396685,7/5/2023,Active,Kano,2
+EMP0683,Michael Nwosu,Female,39,Admin,Admin Officer,346411,8/25/2020,On Leave,Remote,5
+EMP0684,Mary Ibrahim,Male,53,Finance,Auditor,651534,1/10/2026,Active,Kano,0
+EMP0685,Blessing Ojo,Female,51,Operations,Operations Analyst,462152,2/12/2016,Active,Ibadan,10
+EMP0686,Tunde Eze,Male,41,Customer Support,Support Specialist,306124,6/3/2016,Resigned,Port Harcourt,9
+EMP0687,John Ibe,Female,38,Admin,Executive Assistant,312944,7/21/2024,Active,Ibadan,1
+EMP0688,John Nwosu,Male,46,Finance,Accountant,399326,1/21/2020,Active,Lagos,6
+EMP0689,Blessing Afolabi,Male,25,Sales,Account Manager,558990,7/8/2025,Active,Lagos,0
+EMP0690,Tunde Ogunleye,Female,53,Sales,Business Development Rep,430991,2/1/2023,Active,Kano,3
+EMP0691,Sarah Adeyemi,Female,37,Admin,Admin Officer,374596,11/19/2023,Active,Ibadan,2
+EMP0692,Mary Nwosu,Male,22,Finance,Financial Analyst,605743,11/1/2016,On Leave,Abuja,9
+EMP0693,James Ibe,Male,28,HR,HR Officer,507248,11/24/2024,Active,Ibadan,1
+EMP0694,Michael Nwosu,Female,55,Marketing,Marketing Analyst,522267,6/30/2015,Terminated,Ibadan,10
+EMP0695,Fatima Adewale,Male,37,Admin,Executive Assistant,367440,5/9/2016,Active,Kano,9
+EMP0696,Ruth Abdullahi,Female,44,HR,Recruiter,394833,10/11/2020,Active,Ibadan,5
+EMP0697,Aisha Ibrahim,Male,53,Finance,Financial Analyst,656999,2/15/2016,Active,Lagos,10
+EMP0698,John Eze,Male,35,Admin,Admin Officer,373081,6/30/2021,On Leave,Ibadan,4
+EMP0699,Michael Ibrahim,Male,27,Marketing,SEO Specialist,402464,2/15/2022,Resigned,Remote,4
+EMP0700,Grace Eze,Female,47,Customer Support,Support Specialist,349072,12/16/2024,Active,Port Harcourt,1
+EMP0701,Sarah Ogunleye,Female,41,Sales,Business Development Rep,477114,11/27/2024,Active,Remote,1
+EMP0702,Peter Adewale,Female,44,Operations,Logistics Coordinator,273852,9/4/2019,Active,Abuja,6
+EMP0703,Esther Ibe,Male,56,Operations,Operations Analyst,611314,12/1/2016,On Leave,Lagos,9
+EMP0704,Esther Bello,Female,28,IT,Data Analyst,452130,6/29/2020,Active,Remote,5
+EMP0705,Mavis Ibrahim,Male,57,Sales,Account Manager,361146,2/20/2019,Terminated,Kano,7
+EMP0706,Ruth Afolabi,Male,26,Sales,Sales Executive,409607,2/9/2026,On Leave,Lagos,0
+EMP0707,Mavis Balogun,Female,52,Marketing,Marketing Analyst,480230,12/30/2023,Active,Remote,2
+EMP0708,Blessing Afolabi,Male,54,Sales,Business Development Rep,431754,1/18/2018,Active,Lagos,8
+EMP0709,Peter Ibe,Female,49,Admin,Admin Officer,208934,4/14/2024,Active,Ibadan,2
+EMP0710,Chioma Musa,Female,51,HR,HR Analyst,512478,4/25/2022,Active,Remote,4
+EMP0711,Tunde Abdullahi,Female,30,Operations,Procurement Officer,513621,5/27/2021,Active,Kano,4
+EMP0712,David Nwosu,Male,42,Marketing,Marketing Analyst,285426,7/7/2016,Active,Port Harcourt,9
+EMP0713,John Onyeka,Female,36,Admin,Admin Officer,360406,3/7/2023,Active,Port Harcourt,3
+EMP0714,Ruth Nwosu,Male,33,Operations,Logistics Coordinator,551749,3/5/2021,Active,Abuja,5
+EMP0715,Mavis Musa,Male,49,Sales,Account Manager,609837,1/22/2018,On Leave,Kano,8
+EMP0716,Emeka Onyeka,Female,33,Finance,Accountant,399686,6/7/2015,Active,Lagos,10
+EMP0717,Emeka Musa,Female,46,Admin,Admin Officer,260443,7/11/2024,Active,Abuja,1
+EMP0718,John Ogunleye,Female,46,Marketing,SEO Specialist,551652,3/26/2021,Active,Lagos,5
+EMP0719,Sarah Adewale,Female,23,Admin,Admin Officer,343415,11/6/2025,On Leave,Abuja,0
+EMP0720,Chioma Eze,Male,58,Admin,Admin Officer,344552,5/6/2016,Active,Lagos,9
+EMP0721,Grace Ogunleye,Female,54,IT,IT Support,717271,6/1/2022,Active,Remote,3
+EMP0722,James Musa,Female,25,IT,BI Analyst,481320,10/19/2019,Resigned,Ibadan,6
+EMP0723,Michael Onyeka,Male,37,Customer Support,Support Specialist,204001,3/13/2023,On Leave,Lagos,3
+EMP0724,Samuel Nwosu,Male,50,IT,Data Analyst,395843,12/6/2023,Active,Remote,2
+EMP0725,Michael Ogunleye,Male,38,Finance,Financial Analyst,669756,1/15/2018,Active,Ibadan,8
+EMP0726,Grace Okafor,Male,44,Finance,Financial Analyst,446687,5/4/2019,Active,Remote,6
+EMP0727,Daniel Onyeka,Male,37,HR,HR Officer,309893,6/2/2018,Active,Lagos,7
+EMP0728,John Nwosu,Female,53,Marketing,Content Specialist,357861,10/15/2025,Active,Lagos,0
+EMP0729,John Ibrahim,Male,43,Operations,Operations Analyst,585860,7/1/2021,Active,Kano,4
+EMP0730,Fatima Okafor,Female,56,Customer Support,Support Specialist,249139,9/25/2018,Active,Kano,7
+EMP0731,Sarah Onyeka,Female,58,Marketing,Content Specialist,381341,4/10/2020,Active,Abuja,6
+EMP0732,Aisha Eze,Female,23,Admin,Executive Assistant,307114,4/26/2019,Active,Lagos,7
+EMP0733,John Balogun,Male,38,Admin,Executive Assistant,260993,12/18/2021,Active,Kano,4
+EMP0734,David Okafor,Male,57,Operations,Procurement Officer,543346,3/29/2023,Active,Port Harcourt,3
+EMP0735,Peter Ibrahim,Male,37,Finance,Financial Analyst,734707,11/14/2022,Active,Ibadan,3
+EMP0736,Sarah Ogunleye,Female,52,Customer Support,Customer Success Rep,193387,6/15/2021,Active,Abuja,4
+EMP0737,Esther Ibrahim,Male,31,Customer Support,Support Specialist,399194,6/2/2019,Active,Kano,6
+EMP0738,David Bello,Female,42,Admin,Admin Officer,319490,1/20/2022,Active,Port Harcourt,4
+EMP0739,Michael Abdullahi,Female,27,Customer Support,Support Specialist,300769,7/17/2020,Active,Kano,5
+EMP0740,Mary Ibe,Female,30,Sales,Business Development Rep,341847,12/18/2016,Terminated,Abuja,9
+EMP0741,Mavis Bello,Female,22,HR,HR Officer,540758,2/27/2024,On Leave,Lagos,2
+EMP0742,Sarah Abdullahi,Female,49,HR,HR Analyst,541997,2/23/2021,Resigned,Kano,5
+EMP0743,Tunde Bello,Male,26,Finance,Auditor,630737,9/12/2020,Active,Kano,5
+EMP0744,Mary Eze,Male,22,Finance,Accountant,653321,7/1/2016,Active,Abuja,9
+EMP0745,Tunde Balogun,Female,43,Marketing,Marketing Analyst,516457,7/14/2025,Active,Remote,0
+EMP0746,Michael Adewale,Female,55,Sales,Sales Executive,429312,7/9/2021,Active,Ibadan,4
+EMP0747,Emeka Ogunleye,Male,36,Marketing,Marketing Analyst,516704,12/10/2015,Resigned,Lagos,10
+EMP0748,David Ibe,Male,45,Admin,Executive Assistant,228734,12/6/2022,Active,Port Harcourt,3
+EMP0749,Fatima Ibe,Male,30,Marketing,SEO Specialist,366623,5/22/2021,Active,Remote,4
+EMP0750,Michael Balogun,Female,24,Finance,Auditor,466475,3/9/2020,Active,Port Harcourt,6
+EMP0751,Aisha Ogunleye,Male,38,Sales,Business Development Rep,664597,2/12/2019,Active,Remote,7
+EMP0752,James Ibe,Male,49,Sales,Business Development Rep,300349,8/20/2024,Active,Remote,1
+EMP0753,David Adewale,Female,36,HR,Recruiter,580315,5/22/2021,Active,Port Harcourt,4
+EMP0754,Chioma Ibrahim,Female,37,Admin,Executive Assistant,382706,9/26/2015,Active,Port Harcourt,10
+EMP0755,Blessing Ibrahim,Male,23,Customer Support,Customer Success Rep,317156,12/13/2021,Active,Port Harcourt,4
+EMP0756,Tunde Ogunleye,Female,25,Customer Support,Support Specialist,394859,8/24/2021,Active,Remote,4
+EMP0757,John Ogunleye,Female,30,Finance,Accountant,798219,7/28/2016,Active,Ibadan,9
+EMP0758,Mavis Adeyemi,Male,56,Sales,Sales Executive,476020,1/3/2020,Active,Kano,6
+EMP0759,Blessing Nwosu,Female,53,Finance,Financial Analyst,458055,2/7/2026,Active,Abuja,0
+EMP0760,Blessing Ojo,Male,26,Marketing,SEO Specialist,534005,8/13/2024,Active,Ibadan,1
+EMP0761,Aisha Ojo,Female,54,Operations,Logistics Coordinator,603959,11/25/2025,Active,Kano,0
+EMP0762,David Ibe,Female,40,Marketing,Marketing Analyst,631449,8/14/2017,Active,Kano,8
+EMP0763,David Ogunleye,Female,36,IT,BI Analyst,849967,10/23/2018,Terminated,Abuja,7
+EMP0764,Sarah Onyeka,Male,27,Admin,Admin Officer,266066,10/5/2023,Active,Lagos,2
+EMP0765,Michael Musa,Female,22,Operations,Logistics Coordinator,546045,5/11/2021,Resigned,Remote,4
+EMP0766,David Adeyemi,Male,28,Admin,Executive Assistant,243567,5/7/2019,Active,Port Harcourt,6
+EMP0767,James Abdullahi,Female,30,HR,HR Analyst,405583,9/28/2017,Active,Abuja,8
+EMP0768,Chioma Balogun,Female,55,HR,HR Analyst,566941,1/17/2016,Resigned,Remote,10
+EMP0769,Ruth Musa,Male,42,Admin,Admin Officer,381939,1/29/2020,Active,Lagos,6
+EMP0770,Daniel Musa,Male,26,Admin,Executive Assistant,311716,6/8/2020,Active,Ibadan,5
+EMP0771,Mary Abdullahi,Male,31,Sales,Account Manager,575520,1/8/2025,Active,Remote,1
+EMP0772,John Balogun,Male,32,Admin,Executive Assistant,200064,12/31/2025,Active,Port Harcourt,0
+EMP0773,Sarah Ogunleye,Female,41,Admin,Admin Officer,281726,3/1/2018,On Leave,Kano,8
+EMP0774,Mavis Onyeka,Male,39,Sales,Account Manager,639330,9/18/2023,Active,Port Harcourt,2
+EMP0775,Grace Adeyemi,Female,35,Operations,Procurement Officer,265595,7/18/2016,Active,Ibadan,9
+EMP0776,Fatima Eze,Male,45,Operations,Procurement Officer,404153,8/15/2021,Active,Lagos,4
+EMP0777,Chioma Bello,Female,51,IT,BI Analyst,846446,2/1/2019,Active,Abuja,7
+EMP0778,Sarah Adewale,Female,29,Finance,Auditor,464750,9/13/2025,On Leave,Abuja,0
+EMP0779,John Eze,Male,47,Operations,Procurement Officer,337339,5/24/2019,Active,Abuja,6
+EMP0780,Aisha Balogun,Male,22,Customer Support,Support Specialist,422748,12/10/2021,Active,Abuja,4
+EMP0781,Chioma Eze,Male,32,Operations,Operations Analyst,421366,1/7/2026,Active,Port Harcourt,0
+EMP0782,Ruth Eze,Male,39,Marketing,Marketing Analyst,393025,7/14/2023,Active,Port Harcourt,2
+EMP0783,Grace Bello,Female,44,Operations,Logistics Coordinator,279257,8/7/2015,Active,Ibadan,10
+EMP0784,David Ogunleye,Male,43,Marketing,SEO Specialist,360479,7/22/2017,Active,Remote,8
+EMP0785,James Onyeka,Female,30,HR,HR Officer,545577,7/4/2018,Active,Abuja,7
+EMP0786,Peter Ibe,Female,43,Customer Support,Customer Success Rep,277601,6/2/2020,Active,Remote,5
+EMP0787,Fatima Abdullahi,Female,37,Customer Support,Customer Success Rep,445793,10/20/2021,Active,Kano,4
+EMP0788,Daniel Ibrahim,Male,54,IT,BI Analyst,899543,11/27/2023,Terminated,Ibadan,2
+EMP0789,Ibrahim Okafor,Female,32,Admin,Admin Officer,261914,4/30/2019,On Leave,Abuja,7
+EMP0790,Ruth Bello,Male,52,Operations,Operations Analyst,371406,11/4/2023,Active,Lagos,2
+EMP0791,Samuel Nwosu,Male,42,Customer Support,Support Specialist,386491,10/7/2023,Active,Abuja,2
+EMP0792,Samuel Ojo,Male,45,HR,HR Officer,250834,11/6/2020,Active,Abuja,5
+EMP0793,Ibrahim Balogun,Female,27,Marketing,Marketing Analyst,413101,10/15/2020,Active,Port Harcourt,5
+EMP0794,Ruth Adeyemi,Female,27,Finance,Financial Analyst,643864,5/13/2020,Active,Remote,5
+EMP0795,Sarah Onyeka,Female,25,Customer Support,Customer Success Rep,443224,9/24/2021,Active,Lagos,4
+EMP0796,Peter Bello,Female,56,HR,Recruiter,253647,5/20/2019,Active,Port Harcourt,6
+EMP0797,Daniel Ibrahim,Female,40,IT,Data Analyst,863405,2/25/2026,Active,Kano,0
+EMP0798,Emeka Bello,Male,40,Marketing,Content Specialist,583438,9/28/2020,Active,Abuja,5
+EMP0799,Esther Abdullahi,Male,56,HR,Recruiter,508710,2/23/2025,Active,Lagos,1
+EMP0800,Tunde Bello,Female,45,Finance,Financial Analyst,500232,2/12/2026,Active,Remote,0
+EMP0801,Grace Ibrahim,Female,29,Finance,Financial Analyst,458964,7/11/2022,Active,Ibadan,3
+EMP0802,Ibrahim Nwosu,Female,54,HR,HR Officer,345032,4/7/2016,Active,Ibadan,10
+EMP0803,Ruth Abdullahi,Female,42,Marketing,Content Specialist,283408,1/5/2025,Active,Remote,1
+EMP0804,Emeka Bello,Female,52,Operations,Operations Analyst,339575,4/24/2018,Active,Remote,8
+EMP0805,James Eze,Female,47,Customer Support,Customer Success Rep,288816,5/25/2025,Terminated,Ibadan,0
+EMP0806,Emeka Bello,Female,23,Admin,Executive Assistant,396971,6/14/2023,Terminated,Abuja,2
+EMP0807,Blessing Ogunleye,Male,46,Customer Support,Customer Success Rep,331702,2/26/2017,On Leave,Ibadan,9
+EMP0808,Michael Onyeka,Female,39,Sales,Account Manager,679378,10/26/2020,Active,Port Harcourt,5
+EMP0809,Blessing Abdullahi,Female,50,Admin,Executive Assistant,379136,1/29/2024,Resigned,Port Harcourt,2
+EMP0810,Michael Balogun,Male,23,Customer Support,Customer Success Rep,394315,1/6/2017,Active,Remote,9
+EMP0811,Tunde Ibe,Female,23,Finance,Auditor,589437,5/31/2016,On Leave,Abuja,9
+EMP0812,Ruth Ogunleye,Male,40,Operations,Procurement Officer,618440,4/13/2025,Active,Lagos,1
+EMP0813,Ibrahim Eze,Male,37,Operations,Procurement Officer,473042,3/26/2019,Active,Kano,7
+EMP0814,Ruth Afolabi,Male,50,Finance,Accountant,725544,3/31/2019,Resigned,Lagos,7
+EMP0815,Aisha Ibe,Female,29,HR,HR Analyst,428171,10/24/2023,Active,Port Harcourt,2
+EMP0816,Chioma Balogun,Female,43,Sales,Business Development Rep,646771,5/12/2021,Active,Ibadan,4
+EMP0817,Daniel Balogun,Male,45,IT,BI Analyst,655364,10/27/2016,Active,Abuja,9
+EMP0818,Esther Bello,Female,38,Marketing,SEO Specialist,408836,1/5/2016,Active,Port Harcourt,10
+EMP0819,Samuel Adewale,Male,44,Admin,Executive Assistant,337687,2/11/2016,Active,Lagos,10
+EMP0820,Mary Adewale,Female,36,Finance,Auditor,378689,1/14/2022,Active,Lagos,4
+EMP0821,Emeka Onyeka,Male,45,Sales,Sales Executive,452760,4/14/2016,Resigned,Lagos,10
+EMP0822,Grace Bello,Male,37,Admin,Admin Officer,344697,1/26/2022,Active,Abuja,4
+EMP0823,Ruth Okafor,Male,35,Marketing,Content Specialist,276782,12/26/2022,Active,Abuja,3
+EMP0824,Peter Ibrahim,Male,53,Finance,Financial Analyst,604985,7/12/2021,On Leave,Lagos,4
+EMP0825,Michael Musa,Female,39,Marketing,Content Specialist,519589,6/11/2018,On Leave,Remote,7
+EMP0826,Daniel Okafor,Female,29,Marketing,Content Specialist,509935,8/23/2023,Active,Ibadan,2
+EMP0827,Peter Ojo,Male,28,HR,HR Analyst,410109,1/10/2023,Active,Remote,3
+EMP0828,Peter Ibrahim,Female,32,HR,Recruiter,332807,10/9/2022,Terminated,Remote,3
+EMP0829,Mary Afolabi,Male,38,Marketing,Content Specialist,631005,11/26/2018,Active,Lagos,7
+EMP0830,Daniel Onyeka,Male,48,Customer Support,Customer Success Rep,289371,6/3/2020,Active,Lagos,5
+EMP0831,Tunde Musa,Female,46,Operations,Procurement Officer,490740,7/18/2020,Active,Port Harcourt,5
+EMP0832,Emeka Musa,Male,46,Admin,Executive Assistant,367674,12/24/2018,Active,Ibadan,7
+EMP0833,Michael Musa,Female,30,Finance,Auditor,732176,11/13/2024,Active,Kano,1
+EMP0834,Ruth Musa,Female,23,Marketing,Content Specialist,483748,3/25/2024,Active,Abuja,2
+EMP0835,Mary Afolabi,Female,23,Marketing,Marketing Analyst,275182,2/27/2024,Active,Kano,2
+EMP0836,Esther Onyeka,Female,40,Operations,Operations Analyst,552705,11/11/2016,Active,Kano,9
+EMP0837,Mary Musa,Male,26,Admin,Executive Assistant,219143,9/23/2015,Active,Kano,10
+EMP0838,Michael Abdullahi,Male,47,Customer Support,Customer Success Rep,349022,12/1/2016,Active,Kano,9
+EMP0839,John Ibrahim,Male,58,Admin,Admin Officer,206874,7/8/2020,Active,Kano,5
+EMP0840,Mavis Balogun,Male,42,Operations,Logistics Coordinator,402122,1/2/2021,Active,Lagos,5
+EMP0841,Aisha Balogun,Male,50,Customer Support,Support Specialist,379494,10/17/2022,On Leave,Abuja,3
+EMP0842,David Ibe,Male,53,Sales,Sales Executive,390272,10/29/2016,Active,Lagos,9
+EMP0843,Aisha Nwosu,Female,47,Customer Support,Customer Success Rep,337650,10/29/2024,Terminated,Port Harcourt,1
+EMP0844,John Adeyemi,Female,42,IT,BI Analyst,611093,2/15/2026,Active,Remote,0
+EMP0845,David Ibrahim,Female,48,Marketing,Marketing Analyst,639004,9/27/2023,On Leave,Lagos,2
+EMP0846,Samuel Adeyemi,Male,41,Admin,Admin Officer,286922,6/14/2019,Active,Port Harcourt,6
+EMP0847,Ruth Afolabi,Female,55,IT,IT Support,454978,2/8/2024,Resigned,Abuja,2
+EMP0848,Mary Ojo,Female,52,IT,BI Analyst,484425,12/20/2018,Active,Abuja,7
+EMP0849,Daniel Musa,Male,36,HR,HR Analyst,461727,3/19/2016,Active,Port Harcourt,10
+EMP0850,Mavis Balogun,Male,42,Marketing,SEO Specialist,451866,10/21/2019,Terminated,Lagos,6
+EMP0851,Ruth Abdullahi,Male,47,Sales,Account Manager,378434,4/24/2021,Terminated,Kano,5
+EMP0852,Sarah Ibrahim,Male,39,Admin,Executive Assistant,373866,8/11/2015,Active,Lagos,10
+EMP0853,Daniel Ibe,Female,23,Operations,Logistics Coordinator,548602,2/25/2018,On Leave,Kano,8
+EMP0854,Chioma Abdullahi,Male,47,Finance,Auditor,740408,1/21/2018,Active,Kano,8
+EMP0855,Emeka Abdullahi,Female,56,IT,IT Support,524853,5/9/2022,Active,Abuja,3
+EMP0856,Emeka Nwosu,Male,47,Marketing,Content Specialist,418779,10/12/2021,Active,Abuja,4
+EMP0857,Mary Ojo,Male,48,Finance,Accountant,731196,2/15/2024,Active,Ibadan,2
+EMP0858,Sarah Adeyemi,Male,39,Finance,Auditor,680622,10/6/2023,Active,Lagos,2
+EMP0859,Sarah Adewale,Male,52,Marketing,Content Specialist,639499,5/26/2022,Active,Lagos,3
+EMP0860,Aisha Bello,Female,29,Customer Support,Customer Success Rep,332623,9/5/2015,Active,Abuja,10
+EMP0861,Ibrahim Nwosu,Female,48,Admin,Executive Assistant,367841,6/6/2025,Active,Ibadan,0
+EMP0862,Peter Onyeka,Male,28,Finance,Auditor,416071,12/27/2018,Active,Port Harcourt,7
+EMP0863,John Musa,Male,28,Customer Support,Customer Success Rep,401160,6/5/2016,Active,Port Harcourt,9
+EMP0864,Mavis Bello,Female,49,IT,IT Support,576533,4/17/2016,Resigned,Ibadan,10
+EMP0865,Emeka Nwosu,Female,44,Operations,Logistics Coordinator,592821,12/9/2022,Active,Remote,3
+EMP0866,Aisha Nwosu,Female,33,Customer Support,Customer Success Rep,345955,3/16/2019,Active,Ibadan,7
+EMP0867,Grace Abdullahi,Male,46,Admin,Executive Assistant,284609,12/15/2022,Active,Kano,3
+EMP0868,Sarah Ogunleye,Male,47,Marketing,Content Specialist,623117,5/9/2016,Active,Port Harcourt,9
+EMP0869,Mavis Ibe,Female,28,HR,HR Officer,367872,6/19/2021,Terminated,Remote,4
+EMP0870,Emeka Abdullahi,Male,36,Sales,Sales Executive,435605,6/3/2018,Active,Port Harcourt,7
+EMP0871,Aisha Bello,Female,58,HR,HR Officer,388179,12/18/2019,Active,Ibadan,6
+EMP0872,Emeka Onyeka,Male,28,Sales,Sales Executive,334949,5/3/2017,Active,Port Harcourt,8
+EMP0873,James Ibe,Male,51,Marketing,SEO Specialist,339832,9/18/2016,Active,Abuja,9
+EMP0874,Chioma Afolabi,Female,26,Finance,Accountant,796684,7/12/2021,Active,Remote,4
+EMP0875,Mary Musa,Female,56,Admin,Admin Officer,341456,11/27/2015,Terminated,Kano,10
+EMP0876,Tunde Onyeka,Female,29,IT,BI Analyst,416719,6/18/2024,Active,Lagos,1
+EMP0877,Daniel Musa,Male,43,Admin,Admin Officer,289992,3/11/2025,Active,Remote,1
+EMP0878,David Ogunleye,Female,53,Customer Support,Customer Success Rep,222765,1/24/2025,Active,Lagos,1
+EMP0879,Mary Abdullahi,Male,45,IT,Software Engineer,351812,2/1/2025,On Leave,Lagos,1
+EMP0880,Ruth Bello,Male,53,HR,HR Officer,300837,7/29/2023,Active,Kano,2
+EMP0881,David Ibe,Female,23,HR,HR Officer,413402,4/11/2017,Active,Kano,9
+EMP0882,Chioma Ojo,Female,51,HR,Recruiter,484847,7/25/2015,Active,Abuja,10
+EMP0883,Emeka Ogunleye,Male,44,Customer Support,Customer Success Rep,348062,8/26/2025,Active,Kano,0
+EMP0884,Samuel Okafor,Female,42,Sales,Account Manager,503514,9/12/2023,Active,Kano,2
+EMP0885,John Ogunleye,Female,41,Admin,Admin Officer,368016,12/4/2018,Active,Lagos,7
+EMP0886,John Adewale,Female,34,Marketing,Marketing Analyst,516534,7/28/2020,Active,Lagos,5
+EMP0887,Grace Adewale,Male,36,Admin,Admin Officer,211857,3/23/2021,Resigned,Ibadan,5
+EMP0888,Ibrahim Nwosu,Male,43,IT,Software Engineer,589465,10/12/2023,Active,Abuja,2
+EMP0889,John Bello,Female,22,Marketing,Content Specialist,505966,10/1/2019,Active,Abuja,6
+EMP0890,Blessing Eze,Male,29,Sales,Business Development Rep,561511,2/6/2025,Active,Ibadan,1
+EMP0891,Samuel Ibe,Female,28,Marketing,Marketing Analyst,511078,10/8/2024,Terminated,Lagos,1
+EMP0892,John Nwosu,Male,46,Sales,Business Development Rep,602605,3/17/2024,Active,Abuja,2
+EMP0893,Blessing Balogun,Female,24,Sales,Account Manager,372027,4/23/2017,Active,Kano,9
+EMP0894,Emeka Balogun,Male,33,Finance,Accountant,644987,1/22/2016,Active,Kano,10
+EMP0895,David Nwosu,Male,29,Operations,Operations Analyst,349084,3/28/2016,Active,Lagos,10
+EMP0896,Samuel Adewale,Male,58,Customer Support,Customer Success Rep,218757,10/12/2025,Active,Ibadan,0
+EMP0897,Michael Balogun,Female,37,Customer Support,Customer Success Rep,418143,8/23/2015,On Leave,Remote,10
+EMP0898,Michael Afolabi,Female,38,HR,HR Officer,407211,10/23/2023,On Leave,Remote,2
+EMP0899,Blessing Balogun,Male,47,Operations,Procurement Officer,503016,9/29/2019,Active,Kano,6
+EMP0900,Ibrahim Musa,Male,35,Sales,Business Development Rep,691107,7/12/2022,On Leave,Ibadan,3
+EMP0901,Tunde Nwosu,Female,31,Sales,Account Manager,496068,3/6/2019,Active,Kano,7
+EMP0902,Grace Balogun,Male,50,Customer Support,Customer Success Rep,261713,5/8/2025,Active,Ibadan,0
+EMP0903,John Musa,Male,30,Admin,Admin Officer,202272,11/20/2018,Resigned,Ibadan,7
+EMP0904,Daniel Eze,Male,31,Operations,Operations Analyst,494155,11/23/2022,Active,Kano,3
+EMP0905,Michael Okafor,Male,32,HR,HR Analyst,544473,2/29/2020,On Leave,Abuja,6
+EMP0906,Tunde Ibe,Male,24,Admin,Admin Officer,315588,10/16/2023,Active,Port Harcourt,2
+EMP0907,Grace Nwosu,Female,27,Operations,Logistics Coordinator,466368,3/25/2021,Terminated,Ibadan,5
+EMP0908,Mavis Ibe,Female,53,Finance,Financial Analyst,388636,6/14/2025,Resigned,Abuja,0
+EMP0909,Emeka Adeyemi,Male,41,IT,BI Analyst,803980,9/12/2021,Active,Kano,4
+EMP0910,James Ibrahim,Male,41,IT,IT Support,842957,1/18/2020,Active,Port Harcourt,6
+EMP0911,Esther Adewale,Male,44,Operations,Operations Analyst,495863,7/21/2021,Resigned,Lagos,4
+EMP0912,Sarah Onyeka,Male,37,HR,HR Analyst,330743,1/28/2025,Active,Lagos,1
+EMP0913,Aisha Adeyemi,Female,43,HR,Recruiter,322726,3/7/2016,Active,Remote,10
+EMP0914,Samuel Eze,Male,25,Sales,Business Development Rep,380998,10/12/2024,Active,Remote,1
+EMP0915,Aisha Ojo,Female,33,IT,BI Analyst,433422,4/27/2018,Active,Ibadan,8
+EMP0916,James Bello,Male,47,Sales,Sales Executive,545632,7/2/2015,Active,Kano,10
+EMP0917,Ruth Adeyemi,Female,40,IT,Data Analyst,414612,3/26/2024,Active,Ibadan,2
+EMP0918,Grace Ojo,Male,58,Operations,Procurement Officer,417415,11/17/2021,Active,Abuja,4
+EMP0919,Blessing Afolabi,Female,48,IT,Data Analyst,690124,9/6/2018,Active,Abuja,7
+EMP0920,Blessing Ibe,Female,31,Operations,Operations Analyst,570869,10/25/2019,Active,Ibadan,6
+EMP0921,Ibrahim Afolabi,Male,23,Operations,Operations Analyst,359586,10/12/2018,Active,Port Harcourt,7
+EMP0922,Mavis Eze,Female,28,IT,BI Analyst,849856,11/14/2024,Active,Ibadan,1
+EMP0923,James Afolabi,Female,29,Marketing,Marketing Analyst,317178,2/23/2017,Active,Abuja,9
+EMP0924,Mary Adewale,Male,42,Operations,Operations Analyst,361909,8/31/2015,Active,Remote,10
+EMP0925,Ruth Abdullahi,Male,53,Sales,Business Development Rep,330112,9/2/2016,Active,Ibadan,9
+EMP0926,Peter Ibe,Female,46,Finance,Auditor,490726,12/9/2022,Active,Abuja,3
+EMP0927,Grace Ogunleye,Female,53,Marketing,SEO Specialist,563307,6/24/2020,Active,Ibadan,5
+EMP0928,Chioma Ibe,Female,49,Sales,Business Development Rep,435243,11/27/2025,Active,Port Harcourt,0
+EMP0929,Sarah Adeyemi,Female,42,HR,HR Officer,353694,12/9/2024,Active,Lagos,1
+EMP0930,Peter Onyeka,Female,45,Operations,Operations Analyst,598862,11/19/2023,Active,Remote,2
+EMP0931,Tunde Bello,Female,58,Marketing,Marketing Analyst,283490,4/10/2017,Active,Lagos,9
+EMP0932,Blessing Bello,Female,43,Operations,Operations Analyst,545795,9/29/2024,Active,Kano,1
+EMP0933,Michael Ibe,Male,50,Finance,Accountant,419221,2/29/2024,Active,Lagos,2
+EMP0934,Daniel Ibe,Male,31,Sales,Sales Executive,676342,8/16/2023,Active,Remote,2
+EMP0935,James Ogunleye,Male,24,Customer Support,Support Specialist,363176,7/2/2022,Active,Port Harcourt,3
+EMP0936,Fatima Musa,Male,56,Sales,Sales Executive,476241,6/11/2025,Active,Ibadan,0
+EMP0937,David Adeyemi,Female,29,Marketing,Content Specialist,591525,12/6/2015,Active,Lagos,10
+EMP0938,Mary Adewale,Male,58,Sales,Account Manager,439053,5/11/2021,Active,Abuja,4
+EMP0939,Tunde Adewale,Female,22,IT,IT Support,700153,1/27/2023,Active,Port Harcourt,3
+EMP0940,Blessing Bello,Male,26,Marketing,SEO Specialist,276229,3/7/2017,Active,Abuja,9
+EMP0941,David Eze,Male,45,Finance,Accountant,521860,6/3/2022,Active,Ibadan,3
+EMP0942,Mary Bello,Male,29,Admin,Executive Assistant,390004,5/17/2015,Active,Ibadan,10
+EMP0943,Mavis Abdullahi,Female,26,IT,Data Analyst,418322,1/9/2024,Active,Remote,2
+EMP0944,Mary Onyeka,Female,40,Finance,Financial Analyst,312799,1/17/2019,Active,Kano,7
+EMP0945,James Bello,Male,25,Admin,Admin Officer,297849,10/25/2021,Active,Ibadan,4
+EMP0946,James Afolabi,Female,33,Operations,Operations Analyst,337402,10/7/2016,Active,Kano,9
+EMP0947,Chioma Abdullahi,Male,43,Marketing,Content Specialist,336128,6/3/2020,Resigned,Kano,5
+EMP0948,Emeka Nwosu,Male,35,HR,HR Officer,308657,3/19/2020,Active,Remote,6
+EMP0949,Ibrahim Bello,Female,53,Sales,Sales Executive,554266,11/13/2024,Active,Abuja,1
+EMP0950,Grace Ogunleye,Male,34,Admin,Admin Officer,398128,8/13/2025,Active,Abuja,0
+EMP0951,Blessing Adeyemi,Male,23,IT,Software Engineer,567146,2/27/2022,Resigned,Ibadan,4
+EMP0952,James Adeyemi,Female,35,Customer Support,Customer Success Rep,437600,9/22/2021,Active,Remote,4
+EMP0953,Samuel Eze,Female,56,Admin,Admin Officer,398980,9/24/2024,Resigned,Lagos,1
+EMP0954,David Adeyemi,Male,51,Sales,Business Development Rep,298005,11/9/2019,Active,Abuja,6
+EMP0955,Esther Ibe,Female,26,IT,BI Analyst,835679,1/28/2018,Active,Port Harcourt,8
+EMP0956,Mavis Afolabi,Male,24,Marketing,SEO Specialist,331157,6/26/2021,Active,Remote,4
+EMP0957,Chioma Bello,Female,24,HR,HR Analyst,555958,1/26/2022,Active,Kano,4
+EMP0958,Fatima Afolabi,Female,53,IT,IT Support,800859,5/7/2020,Active,Lagos,5
+EMP0959,Tunde Nwosu,Male,38,Finance,Accountant,510410,10/30/2015,Active,Port Harcourt,10
+EMP0960,Chioma Bello,Female,52,Operations,Procurement Officer,280843,5/27/2024,Active,Port Harcourt,1
+EMP0961,Chioma Musa,Female,25,IT,BI Analyst,468229,4/24/2018,Resigned,Port Harcourt,8
+EMP0962,Esther Balogun,Male,52,Sales,Sales Executive,483349,8/28/2018,Active,Port Harcourt,7
+EMP0963,Blessing Adeyemi,Male,37,Finance,Accountant,791576,10/2/2015,On Leave,Remote,10
+EMP0964,Daniel Ibe,Female,50,Operations,Operations Analyst,473139,1/5/2017,Active,Port Harcourt,9
+EMP0965,Sarah Eze,Female,26,IT,Software Engineer,502634,3/18/2018,Active,Ibadan,8
+EMP0966,Aisha Eze,Female,46,Admin,Executive Assistant,339654,5/10/2016,Active,Ibadan,9
+EMP0967,Ibrahim Nwosu,Male,42,Marketing,SEO Specialist,425635,12/28/2020,Active,Abuja,5
+EMP0968,David Bello,Female,34,HR,HR Analyst,534570,5/15/2015,Active,Ibadan,10
+EMP0969,Fatima Abdullahi,Male,43,Sales,Sales Executive,485327,6/2/2023,Active,Ibadan,2
+EMP0970,Grace Eze,Female,57,Finance,Accountant,399052,4/28/2020,Active,Port Harcourt,6
+EMP0971,Fatima Okafor,Male,52,Admin,Executive Assistant,210756,10/14/2019,On Leave,Abuja,6
+EMP0972,Michael Abdullahi,Female,35,Finance,Auditor,305167,5/25/2025,Active,Kano,0
+EMP0973,Peter Eze,Female,37,Marketing,Content Specialist,450944,4/17/2024,Active,Lagos,2
+EMP0974,Daniel Afolabi,Male,48,Finance,Auditor,619609,12/27/2022,Active,Kano,3
+EMP0975,Fatima Ojo,Female,35,Customer Support,Customer Success Rep,379314,3/9/2023,Active,Port Harcourt,3
+EMP0976,Blessing Balogun,Female,23,Operations,Logistics Coordinator,455539,8/14/2018,Active,Abuja,7
+EMP0977,Mary Ojo,Female,44,Sales,Business Development Rep,401055,12/11/2019,Active,Remote,6
+EMP0978,Fatima Musa,Female,23,Finance,Accountant,488492,7/12/2019,Active,Ibadan,6
+EMP0979,James Adeyemi,Female,52,Operations,Operations Analyst,574103,2/2/2024,Terminated,Lagos,2
+EMP0980,Tunde Ojo,Male,57,HR,Recruiter,383769,12/21/2025,Active,Ibadan,0
+EMP0981,Ibrahim Adewale,Male,36,HR,HR Officer,593210,6/15/2024,Active,Abuja,1
+EMP0982,Emeka Adewale,Male,26,IT,BI Analyst,632113,3/8/2025,Active,Abuja,1
+EMP0983,Chioma Ojo,Female,32,IT,Software Engineer,371724,8/10/2021,Active,Kano,4
+EMP0984,Chioma Adeyemi,Female,37,Marketing,Content Specialist,585615,1/31/2019,Terminated,Port Harcourt,7
+EMP0985,Ibrahim Balogun,Female,57,Admin,Executive Assistant,397035,10/6/2017,Active,Abuja,8
+EMP0986,Samuel Ojo,Male,26,IT,Data Analyst,662939,10/24/2016,Active,Abuja,9
+EMP0987,Ruth Bello,Male,50,Customer Support,Customer Success Rep,410176,2/18/2017,Active,Ibadan,9
+EMP0988,Blessing Adewale,Female,30,Sales,Business Development Rep,615556,4/3/2020,Active,Port Harcourt,6
+EMP0989,Tunde Adeyemi,Female,44,Finance,Accountant,321246,7/22/2017,Resigned,Abuja,8
+EMP0990,Daniel Musa,Male,23,Marketing,Marketing Analyst,461504,1/9/2018,Active,Kano,8
+EMP0991,Chioma Adewale,Female,53,Finance,Financial Analyst,649343,8/10/2019,Terminated,Ibadan,6
+EMP0992,Chioma Ojo,Female,31,Admin,Executive Assistant,211537,1/19/2024,Active,Kano,2
+EMP0993,Aisha Ojo,Female,31,Sales,Account Manager,280297,7/24/2019,Active,Abuja,6
+EMP0994,Esther Balogun,Male,27,Admin,Executive Assistant,365550,9/8/2015,Active,Kano,10
+EMP0995,Fatima Okafor,Male,23,Sales,Sales Executive,437584,8/26/2019,Active,Kano,6
+EMP0996,Daniel Okafor,Male,37,Sales,Sales Executive,545207,2/11/2019,Active,Abuja,7
+EMP0997,David Eze,Male,42,Admin,Admin Officer,287499,9/17/2025,Resigned,Port Harcourt,0
+EMP0998,Blessing Onyeka,Female,35,Admin,Admin Officer,356757,9/22/2019,Active,Lagos,6
+EMP0999,Tunde Adeyemi,Male,22,Finance,Accountant,558289,7/27/2023,Active,Ibadan,2
+EMP1000,Grace Ibrahim,Female,58,Operations,Operations Analyst,280416,4/8/2025,Active,Port Harcourt,1
